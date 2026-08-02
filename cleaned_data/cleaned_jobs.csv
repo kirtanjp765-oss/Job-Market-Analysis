@@ -1,0 +1,1002 @@
+job_id,job_title,company,location,work_mode,experience,employment_type,skills,salary_lpa,date_posted,month_posted
+1,Senior Data Analyst,Infosys,Mumbai,On-site,Junior (1-3 yrs),Full-time,"Machine Learning, SQL",6.0,2024-02-07,2024-02
+2,Business Analyst,Infosys,Pune,Remote,Senior (5+ yrs),Full-time,"Git, Tableau, Python, NumPy, SQL",21.1,2024-03-07,2024-03
+3,SQL Developer,HCL Technologies,Hyderabad,Hybrid,Fresher (0-1 yr),Contract,"Git, Tableau, Python, Pandas",3.6,2024-07-03,2024-07
+4,Data Scientist,Zomato,Pune,Remote,Fresher (0-1 yr),Full-time,"Tableau, SQL, Power BI",4.7,2024-08-21,2024-08
+5,SQL Developer,Cognizant,Delhi,Hybrid,Junior (1-3 yrs),Internship,"SQL, Excel, Power BI, Git",5.8,2024-11-23,2024-11
+6,Business Analyst,Swiggy,Bangalore,On-site,Fresher (0-1 yr),Contract,"Tableau, SQL, Power BI, Git, Pandas",3.3,2024-07-21,2024-07
+7,Python Developer,Accenture,Mumbai,On-site,Junior (1-3 yrs),Internship,"Git, NumPy, Machine Learning, Excel",4.9,2024-09-16,2024-09
+8,Senior Data Analyst,TCS,Hyderabad,On-site,Junior (1-3 yrs),Internship,"Git, SQL, NumPy, Power BI, Tableau",8.0,2024-09-28,2024-09
+9,Data Analyst,HCL Technologies,Mumbai,Remote,Mid (3-5 yrs),Full-time,"NumPy, Excel, Statistics, Python",13.7,2024-05-17,2024-05
+10,Junior Data Analyst,HCL Technologies,Mumbai,Remote,Junior (1-3 yrs),Full-time,"Excel, Machine Learning, Python, Tableau",6.0,2024-06-27,2024-06
+11,Data Scientist,Capgemini,Bangalore,On-site,Fresher (0-1 yr),Full-time,"SQL, Machine Learning, Excel, Git, Pandas",3.7,2024-05-17,2024-05
+12,BI Analyst,IBM India,Pune,Remote,Mid (3-5 yrs),Contract,"Statistics, Machine Learning, Git, Python",8.7,2024-01-19,2024-01
+13,Business Analyst,Capgemini,Bangalore,On-site,Fresher (0-1 yr),Full-time,"Python, Pandas",2.7,2024-11-16,2024-11
+14,Business Analyst,Accenture,Gurgaon,On-site,Senior (5+ yrs),Contract,"SQL, Git, NumPy",16.6,2024-12-02,2024-12
+15,Senior Data Analyst,TCS,Noida,Remote,Mid (3-5 yrs),Full-time,"Power BI, Git, Statistics",8.0,2024-08-08,2024-08
+16,Senior Data Analyst,HDFC Bank,Hyderabad,On-site,Fresher (0-1 yr),Full-time,"Excel, NumPy, Statistics",3.7,2024-01-06,2024-01
+17,BI Analyst,Infosys,Noida,Hybrid,Senior (5+ yrs),Contract,"Machine Learning, Statistics, Excel, SQL, Git",14.8,2024-12-18,2024-12
+18,Data Analyst,Swiggy,Bangalore,On-site,Senior (5+ yrs),Internship,"Python, Machine Learning, SQL",23.1,2024-02-22,2024-02
+19,Business Analyst,Google India,Hyderabad,Remote,Junior (1-3 yrs),Internship,"Git, SQL",5.7,2024-09-11,2024-09
+20,Data Scientist,IBM India,Delhi,On-site,Mid (3-5 yrs),Contract,"Tableau, Statistics, Pandas",13.5,2024-01-15,2024-01
+21,Senior Data Analyst,Wipro,Pune,Remote,Mid (3-5 yrs),Full-time,"SQL, Power BI, Pandas, Excel",8.1,2024-12-10,2024-12
+22,Data Analyst,Flipkart,Hyderabad,On-site,Mid (3-5 yrs),Full-time,"Machine Learning, Excel",8.9,2024-12-11,2024-12
+23,Business Analyst,Amazon India,Gurgaon,Hybrid,Fresher (0-1 yr),Full-time,"Tableau, Python, Machine Learning, Excel, SQL",4.1,2024-12-15,2024-12
+24,BI Analyst,Infosys,Hyderabad,On-site,Junior (1-3 yrs),Internship,"Pandas, Machine Learning",4.6,2024-05-12,2024-05
+25,Data Analyst,Zomato,Pune,Remote,Junior (1-3 yrs),Internship,"Pandas, Machine Learning",7.5,2024-10-24,2024-10
+26,Junior Data Analyst,Capgemini,Chennai,On-site,Senior (5+ yrs),Full-time,"Pandas, NumPy, Power BI",15.5,2024-02-13,2024-02
+27,Data Analyst,ICICI Bank,Pune,On-site,Senior (5+ yrs),Contract,"Power BI, Git, Python, Pandas",14.5,2024-02-25,2024-02
+28,Data Scientist,Zomato,Noida,Remote,Mid (3-5 yrs),Full-time,"Tableau, Excel",11.1,2024-01-04,2024-01
+29,BI Analyst,Zomato,Delhi,Hybrid,Fresher (0-1 yr),Contract,"Tableau, Python, NumPy",2.5,2024-09-22,2024-09
+30,Business Analyst,Zomato,Noida,On-site,Mid (3-5 yrs),Internship,"SQL, Tableau, Machine Learning, Pandas",9.9,2024-05-18,2024-05
+31,Junior Data Analyst,IBM India,Noida,Remote,Senior (5+ yrs),Internship,"Git, Tableau, NumPy",18.3,2024-05-07,2024-05
+32,BI Analyst,Swiggy,Gurgaon,Hybrid,Senior (5+ yrs),Internship,"Machine Learning, Statistics, Excel",20.6,2024-11-21,2024-11
+33,SQL Developer,Wipro,Pune,Remote,Mid (3-5 yrs),Full-time,"Excel, Python, Machine Learning",8.7,2024-02-15,2024-02
+34,BI Analyst,IBM India,Noida,Hybrid,Senior (5+ yrs),Full-time,"Python, SQL, NumPy",14.8,2024-12-17,2024-12
+35,Python Developer,TCS,Pune,On-site,Senior (5+ yrs),Full-time,"Machine Learning, Git, Pandas, NumPy, Power BI",20.0,2024-09-14,2024-09
+36,Python Developer,Cognizant,Gurgaon,Hybrid,Mid (3-5 yrs),Full-time,"Machine Learning, Statistics, Power BI, Excel",10.1,2024-04-09,2024-04
+37,SQL Developer,Swiggy,Hyderabad,On-site,Junior (1-3 yrs),Full-time,"Excel, Power BI, SQL, Machine Learning, NumPy",5.3,2024-01-07,2024-01
+38,BI Analyst,Google India,Bangalore,Remote,Senior (5+ yrs),Contract,"Pandas, Tableau",21.8,2024-07-18,2024-07
+39,Business Analyst,ICICI Bank,Pune,Hybrid,Senior (5+ yrs),Contract,"NumPy, Pandas",20.7,2024-12-06,2024-12
+40,Python Developer,Accenture,Bangalore,Hybrid,Fresher (0-1 yr),Full-time,"Excel, Statistics, Git, Python, Machine Learning",3.4,2024-06-11,2024-06
+41,BI Analyst,Amazon India,Noida,Hybrid,Fresher (0-1 yr),Contract,"Machine Learning, Python",5.0,2024-11-03,2024-11
+42,Data Analyst,Infosys,Pune,On-site,Fresher (0-1 yr),Internship,"Power BI, Excel, Statistics",4.2,2024-04-15,2024-04
+43,Data Scientist,Zomato,Chennai,Remote,Fresher (0-1 yr),Full-time,"SQL, Python, Tableau, Statistics",4.2,2024-07-23,2024-07
+44,Business Analyst,Wipro,Pune,On-site,Mid (3-5 yrs),Internship,"Git, Python",9.4,2024-06-03,2024-06
+45,SQL Developer,Infosys,Noida,Hybrid,Fresher (0-1 yr),Contract,"Statistics, Excel, NumPy, SQL",4.3,2024-05-20,2024-05
+46,Python Developer,HDFC Bank,Noida,Remote,Mid (3-5 yrs),Contract,"SQL, Tableau, Statistics",8.7,2024-10-22,2024-10
+47,BI Analyst,Swiggy,Bangalore,Hybrid,Mid (3-5 yrs),Full-time,"Power BI, Pandas, Tableau, Excel, NumPy",13.2,2024-05-18,2024-05
+48,Data Analyst,IBM India,Hyderabad,On-site,Senior (5+ yrs),Contract,"Statistics, Git, Machine Learning",22.3,2024-04-13,2024-04
+49,Business Analyst,Flipkart,Delhi,Hybrid,Mid (3-5 yrs),Contract,"Pandas, Statistics, Tableau, Excel",8.8,2024-04-11,2024-04
+50,Senior Data Analyst,Cognizant,Pune,On-site,Senior (5+ yrs),Contract,"SQL, Power BI, Tableau, Git",16.7,2024-12-18,2024-12
+51,Junior Data Analyst,Amazon India,Bangalore,On-site,Mid (3-5 yrs),Internship,"Statistics, SQL, Python",11.0,2024-08-11,2024-08
+52,Junior Data Analyst,TCS,Mumbai,Hybrid,Fresher (0-1 yr),Full-time,"Statistics, SQL, Python, Machine Learning, NumPy",4.5,2024-02-08,2024-02
+53,Senior Data Analyst,Microsoft India,Pune,Remote,Senior (5+ yrs),Contract,"Tableau, NumPy, Git, Statistics, Machine Learning",12.8,2024-02-25,2024-02
+54,Business Analyst,IBM India,Mumbai,Remote,Fresher (0-1 yr),Full-time,"Excel, Machine Learning, SQL",2.9,2024-12-20,2024-12
+55,Python Developer,Flipkart,Bangalore,On-site,Mid (3-5 yrs),Internship,"Statistics, SQL, Power BI, Excel",12.5,2024-11-26,2024-11
+56,Business Analyst,Microsoft India,Hyderabad,Remote,Junior (1-3 yrs),Internship,"Tableau, Excel, SQL",4.2,2024-10-24,2024-10
+57,Data Scientist,HDFC Bank,Hyderabad,Hybrid,Mid (3-5 yrs),Internship,"Tableau, Machine Learning, Statistics, Power BI, Python",11.2,2024-12-11,2024-12
+58,Data Scientist,Infosys,Hyderabad,On-site,Fresher (0-1 yr),Internship,"Git, Python, Excel, Power BI",3.8,2024-05-06,2024-05
+59,BI Analyst,ICICI Bank,Hyderabad,Hybrid,Mid (3-5 yrs),Contract,"Pandas, SQL, Excel, Statistics",9.9,2024-11-13,2024-11
+60,Data Analyst,HDFC Bank,Hyderabad,Hybrid,Mid (3-5 yrs),Contract,"NumPy, Machine Learning",10.3,2024-09-15,2024-09
+61,BI Analyst,TCS,Pune,Remote,Mid (3-5 yrs),Internship,"Statistics, Python, Power BI, Excel, Tableau",7.9,2024-12-16,2024-12
+62,Senior Data Analyst,Infosys,Pune,Remote,Junior (1-3 yrs),Contract,"Machine Learning, NumPy",4.4,2024-02-15,2024-02
+63,Senior Data Analyst,Accenture,Gurgaon,Remote,Mid (3-5 yrs),Internship,"NumPy, Statistics, Machine Learning, SQL",10.2,2024-04-20,2024-04
+64,Junior Data Analyst,Wipro,Mumbai,Hybrid,Mid (3-5 yrs),Internship,"Python, Tableau, Machine Learning, NumPy",11.1,2024-08-28,2024-08
+65,Junior Data Analyst,HDFC Bank,Gurgaon,Hybrid,Mid (3-5 yrs),Internship,"Statistics, Pandas, Power BI, Machine Learning, SQL",11.0,2024-07-02,2024-07
+66,SQL Developer,ICICI Bank,Noida,Hybrid,Junior (1-3 yrs),Contract,"Excel, Machine Learning",7.9,2024-02-28,2024-02
+67,Python Developer,HCL Technologies,Gurgaon,On-site,Junior (1-3 yrs),Contract,"SQL, Statistics, Tableau",5.4,2024-11-03,2024-11
+68,SQL Developer,Google India,Delhi,Remote,Senior (5+ yrs),Internship,"Git, SQL",15.1,2024-05-08,2024-05
+69,Senior Data Analyst,Microsoft India,Hyderabad,Remote,Fresher (0-1 yr),Contract,"Tableau, Python, Machine Learning",3.3,2024-06-12,2024-06
+70,BI Analyst,Accenture,Pune,Remote,Senior (5+ yrs),Internship,"Excel, Git, SQL",19.9,2024-11-08,2024-11
+71,Python Developer,Accenture,Pune,Hybrid,Mid (3-5 yrs),Contract,"Python, Statistics, Tableau, Pandas",10.8,2024-06-19,2024-06
+72,Data Scientist,Microsoft India,Mumbai,Hybrid,Mid (3-5 yrs),Full-time,"Statistics, SQL, Power BI, Git, Tableau",9.5,2024-12-10,2024-12
+73,Data Analyst,Google India,Mumbai,On-site,Fresher (0-1 yr),Internship,"Tableau, Power BI, Pandas, SQL, Statistics",3.0,2024-12-25,2024-12
+74,Junior Data Analyst,HCL Technologies,Bangalore,Hybrid,Senior (5+ yrs),Full-time,"Excel, SQL, Tableau, Git",21.7,2024-03-26,2024-03
+75,SQL Developer,Amazon India,Chennai,Hybrid,Senior (5+ yrs),Contract,"SQL, Statistics, Git, Machine Learning",21.8,2024-11-24,2024-11
+76,BI Analyst,Zomato,Hyderabad,Hybrid,Fresher (0-1 yr),Contract,"Statistics, Pandas",4.2,2024-10-13,2024-10
+77,SQL Developer,HCL Technologies,Pune,Hybrid,Fresher (0-1 yr),Internship,"Git, Power BI, SQL, Pandas",4.6,2024-05-21,2024-05
+78,BI Analyst,HCL Technologies,Chennai,On-site,Fresher (0-1 yr),Contract,"SQL, Git, Power BI, Tableau, Machine Learning",3.5,2024-12-23,2024-12
+79,BI Analyst,Accenture,Noida,Remote,Fresher (0-1 yr),Contract,"Tableau, Python, Pandas, SQL, Power BI",3.6,2024-06-04,2024-06
+80,SQL Developer,Zomato,Bangalore,Hybrid,Mid (3-5 yrs),Full-time,"Statistics, SQL",11.6,2024-10-01,2024-10
+81,Data Analyst,Swiggy,Pune,On-site,Junior (1-3 yrs),Full-time,"Git, Power BI, Machine Learning",5.3,2024-10-01,2024-10
+82,Data Scientist,Accenture,Chennai,Remote,Mid (3-5 yrs),Full-time,"Python, Excel",7.1,2024-04-19,2024-04
+83,SQL Developer,Infosys,Chennai,Hybrid,Fresher (0-1 yr),Full-time,"Machine Learning, SQL, Git, Power BI, NumPy",4.4,2024-02-15,2024-02
+84,Business Analyst,TCS,Mumbai,Hybrid,Fresher (0-1 yr),Full-time,"NumPy, Git, SQL, Power BI, Pandas",4.8,2024-02-11,2024-02
+85,Junior Data Analyst,Wipro,Chennai,Hybrid,Mid (3-5 yrs),Contract,"Statistics, Machine Learning, NumPy, Python",12.6,2024-11-21,2024-11
+86,Business Analyst,Microsoft India,Gurgaon,On-site,Senior (5+ yrs),Contract,"NumPy, Git, SQL, Excel, Power BI",16.1,2024-03-22,2024-03
+87,Python Developer,Wipro,Hyderabad,On-site,Fresher (0-1 yr),Contract,"Pandas, Excel",3.9,2024-09-18,2024-09
+88,SQL Developer,HCL Technologies,Noida,Hybrid,Senior (5+ yrs),Internship,"Tableau, Git",16.6,2024-04-05,2024-04
+89,Python Developer,Capgemini,Hyderabad,Hybrid,Mid (3-5 yrs),Full-time,"Git, Power BI, NumPy, Statistics",10.9,2024-10-20,2024-10
+90,Data Analyst,Amazon India,Bangalore,On-site,Mid (3-5 yrs),Internship,"Pandas, Git, Python, SQL",13.1,2024-07-03,2024-07
+91,Junior Data Analyst,Infosys,Hyderabad,Remote,Junior (1-3 yrs),Contract,"Statistics, Pandas, Excel, Git, NumPy",6.9,2024-10-20,2024-10
+92,Senior Data Analyst,TCS,Chennai,On-site,Fresher (0-1 yr),Internship,"Tableau, Statistics",4.2,2024-08-14,2024-08
+93,Data Scientist,IBM India,Hyderabad,Hybrid,Senior (5+ yrs),Full-time,"Git, Statistics, Tableau, Python",14.9,2024-01-01,2024-01
+94,Business Analyst,Flipkart,Pune,On-site,Mid (3-5 yrs),Contract,"SQL, Python, Statistics, Pandas",10.0,2024-09-23,2024-09
+95,Business Analyst,Zomato,Hyderabad,Hybrid,Fresher (0-1 yr),Contract,"Statistics, SQL",4.7,2024-10-13,2024-10
+96,BI Analyst,Flipkart,Hyderabad,Hybrid,Fresher (0-1 yr),Contract,"Git, Statistics, Pandas",2.7,2024-04-14,2024-04
+97,BI Analyst,Wipro,Noida,Hybrid,Mid (3-5 yrs),Full-time,"Excel, SQL, Machine Learning, Tableau",10.6,2024-06-12,2024-06
+98,Junior Data Analyst,Capgemini,Hyderabad,On-site,Mid (3-5 yrs),Full-time,"Git, Excel, SQL",8.2,2024-08-15,2024-08
+99,Python Developer,Swiggy,Delhi,On-site,Senior (5+ yrs),Full-time,"Statistics, Tableau, Machine Learning, Git, Python",16.6,2024-08-15,2024-08
+100,Data Analyst,TCS,Delhi,Hybrid,Fresher (0-1 yr),Internship,"Git, Machine Learning",3.5,2024-12-02,2024-12
+101,Python Developer,IBM India,Delhi,Remote,Senior (5+ yrs),Internship,"Python, Statistics, SQL",22.5,2024-12-03,2024-12
+102,Junior Data Analyst,TCS,Pune,Remote,Senior (5+ yrs),Contract,"Pandas, Git, Tableau",17.0,2024-11-20,2024-11
+103,Data Analyst,Swiggy,Hyderabad,Hybrid,Fresher (0-1 yr),Internship,"Tableau, Git, Excel, Statistics, Python",4.0,2024-06-10,2024-06
+104,BI Analyst,Accenture,Hyderabad,Hybrid,Senior (5+ yrs),Internship,"Excel, Machine Learning, SQL, Pandas",20.7,2024-01-12,2024-01
+105,Data Scientist,Cognizant,Pune,Hybrid,Senior (5+ yrs),Full-time,"Excel, Git, SQL",15.8,2024-09-25,2024-09
+106,Data Analyst,Swiggy,Chennai,Remote,Senior (5+ yrs),Full-time,"Excel, Git, Statistics",12.6,2024-12-08,2024-12
+107,Python Developer,Flipkart,Gurgaon,On-site,Junior (1-3 yrs),Contract,"Power BI, Pandas, Statistics, Git, Excel",7.1,2024-07-06,2024-07
+108,Business Analyst,Accenture,Mumbai,On-site,Senior (5+ yrs),Contract,"Machine Learning, SQL",15.7,2024-05-15,2024-05
+109,Junior Data Analyst,Microsoft India,Hyderabad,On-site,Senior (5+ yrs),Contract,"NumPy, Python",17.2,2024-07-03,2024-07
+110,SQL Developer,Capgemini,Bangalore,Hybrid,Fresher (0-1 yr),Internship,"Excel, Git, Python, Machine Learning",4.8,2024-03-25,2024-03
+111,Python Developer,HDFC Bank,Bangalore,On-site,Fresher (0-1 yr),Contract,"Excel, Machine Learning, NumPy",2.8,2024-05-04,2024-05
+112,Data Analyst,Capgemini,Noida,Remote,Senior (5+ yrs),Full-time,"Statistics, Machine Learning",12.2,2024-04-23,2024-04
+113,Junior Data Analyst,Flipkart,Noida,On-site,Mid (3-5 yrs),Full-time,"Excel, SQL, Pandas, Python, Tableau",10.8,2024-09-18,2024-09
+114,Data Analyst,Google India,Gurgaon,On-site,Senior (5+ yrs),Contract,"Python, Pandas, SQL, Excel",15.1,2024-02-25,2024-02
+115,SQL Developer,Accenture,Bangalore,Hybrid,Mid (3-5 yrs),Internship,"Statistics, Git, Excel",12.7,2024-08-02,2024-08
+116,Data Scientist,IBM India,Bangalore,On-site,Fresher (0-1 yr),Contract,"Machine Learning, NumPy, Statistics, Excel",2.6,2024-05-12,2024-05
+117,Data Analyst,Swiggy,Mumbai,On-site,Mid (3-5 yrs),Contract,"Statistics, NumPy, Pandas, SQL, Power BI",11.8,2024-09-09,2024-09
+118,Senior Data Analyst,Microsoft India,Hyderabad,Hybrid,Junior (1-3 yrs),Internship,"Pandas, SQL, Machine Learning, Excel",6.6,2024-10-23,2024-10
+119,BI Analyst,Cognizant,Gurgaon,Hybrid,Senior (5+ yrs),Full-time,"Git, NumPy, Tableau, Pandas",24.7,2024-02-22,2024-02
+120,BI Analyst,Zomato,Chennai,On-site,Junior (1-3 yrs),Internship,"Python, Excel, SQL, Statistics, Pandas",5.5,2024-10-02,2024-10
+121,Junior Data Analyst,HDFC Bank,Delhi,Hybrid,Senior (5+ yrs),Full-time,"Machine Learning, Pandas, NumPy",16.1,2024-02-01,2024-02
+122,Junior Data Analyst,ICICI Bank,Noida,Remote,Fresher (0-1 yr),Contract,"Statistics, Power BI, Tableau, Pandas",4.8,2024-02-05,2024-02
+123,Senior Data Analyst,HDFC Bank,Chennai,Remote,Senior (5+ yrs),Full-time,"Pandas, SQL, Tableau, Excel",23.1,2024-12-21,2024-12
+124,Junior Data Analyst,Zomato,Pune,On-site,Junior (1-3 yrs),Full-time,"Statistics, Python, Pandas",6.2,2024-09-05,2024-09
+125,Senior Data Analyst,Wipro,Mumbai,Hybrid,Senior (5+ yrs),Internship,"NumPy, SQL, Excel, Statistics, Pandas",13.0,2024-09-12,2024-09
+126,Junior Data Analyst,Cognizant,Chennai,Hybrid,Fresher (0-1 yr),Full-time,"Tableau, Excel, Machine Learning",3.3,2024-06-17,2024-06
+127,Data Scientist,Wipro,Mumbai,On-site,Mid (3-5 yrs),Full-time,"Git, Machine Learning, SQL, Tableau",11.5,2024-10-05,2024-10
+128,Junior Data Analyst,Swiggy,Bangalore,On-site,Fresher (0-1 yr),Full-time,"Power BI, NumPy, Python, Git",4.7,2024-11-10,2024-11
+129,Python Developer,Capgemini,Noida,Hybrid,Senior (5+ yrs),Full-time,"Excel, Statistics",17.4,2024-06-20,2024-06
+130,Junior Data Analyst,Swiggy,Delhi,Remote,Mid (3-5 yrs),Contract,"Pandas, Machine Learning, SQL",9.2,2024-05-15,2024-05
+131,Business Analyst,Accenture,Hyderabad,On-site,Mid (3-5 yrs),Contract,"Power BI, Excel, Pandas, Tableau, Statistics",9.2,2024-08-17,2024-08
+132,Python Developer,ICICI Bank,Mumbai,Hybrid,Fresher (0-1 yr),Full-time,"Machine Learning, Statistics, Power BI, SQL, Tableau",3.4,2024-08-20,2024-08
+133,Python Developer,Flipkart,Bangalore,On-site,Senior (5+ yrs),Full-time,"Pandas, NumPy, Git, Python",17.2,2024-04-12,2024-04
+134,Data Scientist,Wipro,Noida,Remote,Senior (5+ yrs),Internship,"Git, SQL, Excel, Python",17.1,2024-06-18,2024-06
+135,SQL Developer,Accenture,Pune,Remote,Senior (5+ yrs),Internship,"Python, Git",13.8,2024-08-17,2024-08
+136,Python Developer,Accenture,Chennai,Hybrid,Mid (3-5 yrs),Full-time,"Git, Tableau, Pandas, Machine Learning, NumPy",10.7,2024-05-16,2024-05
+137,Data Analyst,Zomato,Delhi,Remote,Fresher (0-1 yr),Contract,"Python, Statistics, Tableau, Pandas",4.5,2024-10-08,2024-10
+138,Data Analyst,ICICI Bank,Chennai,Remote,Senior (5+ yrs),Full-time,"Python, SQL, Power BI",12.2,2024-03-14,2024-03
+139,Business Analyst,Microsoft India,Gurgaon,Remote,Fresher (0-1 yr),Internship,"Machine Learning, Power BI, Pandas",5.0,2024-07-11,2024-07
+140,Junior Data Analyst,HDFC Bank,Delhi,Remote,Mid (3-5 yrs),Internship,"Git, Statistics, Power BI, SQL",9.0,2024-05-25,2024-05
+141,Data Scientist,IBM India,Gurgaon,Hybrid,Senior (5+ yrs),Contract,"Tableau, SQL, NumPy, Power BI",22.6,2024-03-10,2024-03
+142,Data Analyst,Flipkart,Hyderabad,Hybrid,Senior (5+ yrs),Internship,"Statistics, Power BI, Machine Learning, NumPy",19.0,2024-12-09,2024-12
+143,Junior Data Analyst,HCL Technologies,Pune,On-site,Fresher (0-1 yr),Internship,"Power BI, Python, SQL",3.5,2024-02-22,2024-02
+144,Junior Data Analyst,Infosys,Chennai,Hybrid,Senior (5+ yrs),Contract,"Tableau, Pandas, Git",20.4,2024-02-21,2024-02
+145,Business Analyst,TCS,Chennai,Hybrid,Junior (1-3 yrs),Full-time,"Statistics, Excel, Tableau, Python, NumPy",5.2,2024-06-10,2024-06
+146,Python Developer,ICICI Bank,Chennai,Remote,Senior (5+ yrs),Contract,"SQL, Pandas, Excel",21.5,2024-12-06,2024-12
+147,Data Analyst,Swiggy,Mumbai,Remote,Junior (1-3 yrs),Full-time,"NumPy, Machine Learning, Pandas, Python, Power BI",6.7,2024-03-16,2024-03
+148,SQL Developer,Capgemini,Bangalore,Hybrid,Senior (5+ yrs),Full-time,"Tableau, Pandas, Git, Statistics, Machine Learning",19.4,2024-06-23,2024-06
+149,Business Analyst,TCS,Hyderabad,Hybrid,Mid (3-5 yrs),Full-time,"Machine Learning, Tableau, SQL, Pandas, Excel",9.6,2024-03-16,2024-03
+150,Junior Data Analyst,HDFC Bank,Delhi,Hybrid,Senior (5+ yrs),Internship,"Power BI, SQL, Statistics",18.9,2024-10-04,2024-10
+151,Data Analyst,IBM India,Chennai,On-site,Mid (3-5 yrs),Internship,"SQL, Power BI, Statistics, Python, Tableau",10.1,2024-03-17,2024-03
+152,BI Analyst,HDFC Bank,Bangalore,Remote,Senior (5+ yrs),Internship,"Python, NumPy, Tableau, Machine Learning",12.0,2024-02-02,2024-02
+153,BI Analyst,Zomato,Hyderabad,Remote,Fresher (0-1 yr),Full-time,"Python, Tableau, NumPy, SQL, Statistics",4.4,2024-11-14,2024-11
+154,SQL Developer,Google India,Gurgaon,Hybrid,Senior (5+ yrs),Full-time,"Pandas, SQL, Excel",24.9,2024-03-24,2024-03
+155,Business Analyst,Infosys,Bangalore,Hybrid,Senior (5+ yrs),Internship,"Machine Learning, NumPy, Power BI, SQL, Statistics",16.5,2024-12-25,2024-12
+156,Senior Data Analyst,TCS,Noida,Remote,Fresher (0-1 yr),Full-time,"SQL, Git, Python",3.6,2024-01-08,2024-01
+157,Data Analyst,Google India,Gurgaon,On-site,Junior (1-3 yrs),Full-time,"Machine Learning, Tableau, Power BI",7.3,2024-06-19,2024-06
+158,SQL Developer,Capgemini,Mumbai,On-site,Junior (1-3 yrs),Contract,"Tableau, Python, Excel, Pandas",6.7,2024-01-12,2024-01
+159,BI Analyst,Swiggy,Noida,Hybrid,Junior (1-3 yrs),Contract,"Excel, Machine Learning, Statistics, SQL, NumPy",5.2,2024-08-02,2024-08
+160,BI Analyst,Microsoft India,Chennai,Hybrid,Junior (1-3 yrs),Contract,"Pandas, SQL, Statistics",7.4,2024-12-27,2024-12
+161,Business Analyst,TCS,Mumbai,Hybrid,Fresher (0-1 yr),Full-time,"Git, Machine Learning, Power BI",3.7,2024-06-10,2024-06
+162,Data Analyst,IBM India,Pune,Remote,Fresher (0-1 yr),Internship,"Power BI, Git, NumPy, SQL, Tableau",3.3,2024-08-18,2024-08
+163,SQL Developer,Flipkart,Mumbai,Hybrid,Senior (5+ yrs),Contract,"Statistics, Pandas",23.9,2024-07-02,2024-07
+164,Business Analyst,Accenture,Bangalore,Hybrid,Senior (5+ yrs),Contract,"Power BI, Pandas, Git",16.9,2024-08-18,2024-08
+165,SQL Developer,Amazon India,Gurgaon,Remote,Senior (5+ yrs),Contract,"Pandas, Excel, Machine Learning",21.4,2024-09-21,2024-09
+166,Data Analyst,TCS,Hyderabad,Remote,Fresher (0-1 yr),Full-time,"Excel, Power BI, SQL, Pandas, Statistics",2.5,2024-06-02,2024-06
+167,Python Developer,ICICI Bank,Bangalore,On-site,Senior (5+ yrs),Full-time,"Machine Learning, Tableau",19.0,2024-09-27,2024-09
+168,BI Analyst,Cognizant,Hyderabad,On-site,Junior (1-3 yrs),Full-time,"Git, Machine Learning, Tableau",7.3,2024-07-03,2024-07
+169,SQL Developer,Google India,Gurgaon,Remote,Junior (1-3 yrs),Internship,"Tableau, SQL, Python",4.4,2024-09-16,2024-09
+170,Data Analyst,Infosys,Chennai,On-site,Senior (5+ yrs),Contract,"Git, SQL, Python, Machine Learning",14.7,2024-10-16,2024-10
+171,Data Scientist,TCS,Hyderabad,Remote,Mid (3-5 yrs),Internship,"Excel, Pandas",7.1,2024-03-25,2024-03
+172,BI Analyst,Wipro,Mumbai,On-site,Junior (1-3 yrs),Internship,"Machine Learning, Pandas, NumPy, Statistics, Git",4.6,2024-12-03,2024-12
+173,SQL Developer,TCS,Hyderabad,Hybrid,Junior (1-3 yrs),Full-time,"Git, NumPy, Pandas, Python",6.5,2024-08-16,2024-08
+174,Business Analyst,Zomato,Noida,Hybrid,Junior (1-3 yrs),Internship,"SQL, Tableau, Power BI, Pandas, Python",4.3,2024-12-26,2024-12
+175,Junior Data Analyst,Google India,Delhi,Hybrid,Fresher (0-1 yr),Full-time,"Tableau, Statistics",3.4,2024-03-03,2024-03
+176,Junior Data Analyst,Microsoft India,Gurgaon,Remote,Senior (5+ yrs),Full-time,"SQL, Pandas",19.2,2024-06-28,2024-06
+177,BI Analyst,Infosys,Mumbai,Hybrid,Senior (5+ yrs),Full-time,"Git, Machine Learning, Excel",20.9,2024-05-10,2024-05
+178,Data Scientist,ICICI Bank,Chennai,On-site,Junior (1-3 yrs),Contract,"NumPy, Tableau, Statistics, Git",4.3,2024-04-24,2024-04
+179,Python Developer,IBM India,Gurgaon,On-site,Junior (1-3 yrs),Contract,"NumPy, Pandas",7.4,2024-06-15,2024-06
+180,SQL Developer,Microsoft India,Chennai,Hybrid,Mid (3-5 yrs),Internship,"Statistics, Pandas, Excel",13.8,2024-05-24,2024-05
+181,Python Developer,Capgemini,Delhi,Hybrid,Mid (3-5 yrs),Contract,"SQL, Power BI, Excel, Pandas",10.3,2024-12-15,2024-12
+182,Business Analyst,HDFC Bank,Mumbai,Remote,Fresher (0-1 yr),Contract,"Excel, Tableau, Power BI, Git, Pandas",2.9,2024-07-03,2024-07
+183,Python Developer,ICICI Bank,Noida,Remote,Senior (5+ yrs),Internship,"Pandas, Machine Learning",19.7,2024-02-25,2024-02
+184,Business Analyst,Zomato,Chennai,Remote,Fresher (0-1 yr),Internship,"Pandas, NumPy, SQL, Python, Machine Learning",3.1,2024-09-18,2024-09
+185,Business Analyst,HDFC Bank,Delhi,Hybrid,Senior (5+ yrs),Internship,"Pandas, Python, Statistics",13.4,2024-02-04,2024-02
+186,Junior Data Analyst,Zomato,Mumbai,Hybrid,Senior (5+ yrs),Full-time,"Pandas, Statistics, SQL, Power BI, Git",21.1,2024-05-02,2024-05
+187,Senior Data Analyst,Infosys,Delhi,Remote,Fresher (0-1 yr),Internship,"Power BI, Machine Learning, Excel",3.9,2024-07-15,2024-07
+188,Business Analyst,Google India,Chennai,On-site,Senior (5+ yrs),Contract,"Git, Power BI",17.8,2024-01-23,2024-01
+189,Business Analyst,IBM India,Mumbai,Remote,Fresher (0-1 yr),Internship,"Machine Learning, Excel",3.4,2024-02-09,2024-02
+190,Python Developer,Swiggy,Noida,Remote,Senior (5+ yrs),Internship,"Pandas, Git",23.0,2024-11-23,2024-11
+191,Data Scientist,Wipro,Chennai,Hybrid,Fresher (0-1 yr),Full-time,"SQL, Excel, Pandas, Statistics",2.9,2024-10-05,2024-10
+192,BI Analyst,Microsoft India,Chennai,Hybrid,Junior (1-3 yrs),Internship,"Statistics, Tableau, Excel",4.7,2024-10-02,2024-10
+193,SQL Developer,Infosys,Gurgaon,On-site,Junior (1-3 yrs),Contract,"NumPy, Statistics, Git, Pandas, Power BI",6.0,2024-01-26,2024-01
+194,Business Analyst,Flipkart,Bangalore,Hybrid,Junior (1-3 yrs),Internship,"Excel, Statistics, Machine Learning, Tableau",6.0,2024-05-25,2024-05
+195,SQL Developer,TCS,Gurgaon,Remote,Junior (1-3 yrs),Contract,"Power BI, Tableau",6.0,2024-05-12,2024-05
+196,Senior Data Analyst,HDFC Bank,Hyderabad,On-site,Junior (1-3 yrs),Internship,"Git, NumPy, Excel, Tableau",4.6,2024-04-26,2024-04
+197,Data Analyst,Zomato,Mumbai,Remote,Junior (1-3 yrs),Contract,"Tableau, Git, SQL, Statistics",7.9,2024-01-09,2024-01
+198,Junior Data Analyst,Accenture,Pune,On-site,Mid (3-5 yrs),Full-time,"Statistics, Excel, Tableau, Pandas, Power BI",9.6,2024-02-13,2024-02
+199,Data Scientist,Zomato,Gurgaon,Hybrid,Mid (3-5 yrs),Internship,"SQL, Statistics",11.4,2024-02-26,2024-02
+200,BI Analyst,IBM India,Noida,On-site,Senior (5+ yrs),Contract,"Tableau, Pandas, Excel, Git",23.1,2024-11-25,2024-11
+201,Data Analyst,TCS,Hyderabad,Remote,Senior (5+ yrs),Full-time,"Excel, Statistics",17.9,2024-07-07,2024-07
+202,Junior Data Analyst,Flipkart,Chennai,Hybrid,Fresher (0-1 yr),Internship,"Tableau, SQL, Pandas, Statistics",4.8,2024-07-21,2024-07
+203,Data Scientist,Capgemini,Noida,Remote,Fresher (0-1 yr),Internship,"Python, Power BI",3.7,2024-04-17,2024-04
+204,Python Developer,Infosys,Bangalore,Remote,Mid (3-5 yrs),Full-time,"Excel, Statistics, SQL, Machine Learning, Power BI",7.6,2024-02-11,2024-02
+205,SQL Developer,Flipkart,Chennai,Hybrid,Junior (1-3 yrs),Internship,"SQL, Machine Learning, Python",6.4,2024-06-24,2024-06
+206,Business Analyst,Accenture,Noida,Remote,Senior (5+ yrs),Full-time,"SQL, Excel",21.8,2024-07-12,2024-07
+207,BI Analyst,Swiggy,Chennai,On-site,Mid (3-5 yrs),Internship,"Power BI, Machine Learning",11.2,2024-05-25,2024-05
+208,Data Analyst,Flipkart,Pune,Remote,Junior (1-3 yrs),Internship,"Tableau, Python, Power BI, Statistics, NumPy",4.5,2024-10-03,2024-10
+209,Data Analyst,Zomato,Delhi,On-site,Senior (5+ yrs),Internship,"Pandas, Machine Learning, Excel, NumPy, Power BI",24.4,2024-01-19,2024-01
+210,Senior Data Analyst,Infosys,Mumbai,On-site,Fresher (0-1 yr),Full-time,"Machine Learning, Tableau, NumPy, Power BI, Pandas",3.5,2024-09-20,2024-09
+211,Junior Data Analyst,Amazon India,Hyderabad,Hybrid,Fresher (0-1 yr),Internship,"Excel, Machine Learning, Pandas",3.5,2024-11-22,2024-11
+212,Senior Data Analyst,Flipkart,Noida,Remote,Junior (1-3 yrs),Full-time,"SQL, NumPy, Git",5.8,2024-05-22,2024-05
+213,Junior Data Analyst,HCL Technologies,Bangalore,Remote,Junior (1-3 yrs),Internship,"Excel, Statistics",7.8,2024-12-09,2024-12
+214,Junior Data Analyst,Zomato,Chennai,Remote,Mid (3-5 yrs),Internship,"Python, Pandas",12.6,2024-02-09,2024-02
+215,Senior Data Analyst,ICICI Bank,Gurgaon,Remote,Mid (3-5 yrs),Full-time,"Git, Excel, Pandas, SQL, Machine Learning",12.4,2024-11-24,2024-11
+216,Senior Data Analyst,Capgemini,Bangalore,On-site,Fresher (0-1 yr),Full-time,"Statistics, Pandas",3.5,2024-01-18,2024-01
+217,BI Analyst,Capgemini,Delhi,On-site,Senior (5+ yrs),Internship,"Tableau, SQL, Pandas, Python",18.5,2024-03-08,2024-03
+218,Data Analyst,Google India,Hyderabad,Hybrid,Mid (3-5 yrs),Contract,"SQL, Machine Learning, Statistics, Python",9.6,2024-05-24,2024-05
+219,Business Analyst,HDFC Bank,Delhi,Remote,Senior (5+ yrs),Full-time,"Excel, Python, NumPy",12.3,2024-11-27,2024-11
+220,Data Analyst,Swiggy,Bangalore,Remote,Senior (5+ yrs),Internship,"SQL, Power BI, Machine Learning, Statistics",18.4,2024-03-23,2024-03
+221,Data Scientist,Wipro,Bangalore,On-site,Senior (5+ yrs),Internship,"Statistics, SQL, Machine Learning, Tableau",13.7,2024-02-19,2024-02
+222,Data Analyst,Microsoft India,Chennai,On-site,Mid (3-5 yrs),Contract,"NumPy, Pandas, Machine Learning, Power BI",8.9,2024-04-05,2024-04
+223,Senior Data Analyst,Accenture,Hyderabad,On-site,Senior (5+ yrs),Contract,"NumPy, SQL, Pandas, Git",14.7,2024-05-28,2024-05
+224,Senior Data Analyst,Wipro,Chennai,Remote,Mid (3-5 yrs),Internship,"Power BI, Pandas",8.0,2024-06-13,2024-06
+225,Data Analyst,Flipkart,Mumbai,On-site,Fresher (0-1 yr),Contract,"Machine Learning, Git, Power BI, Python, Statistics",2.8,2024-02-01,2024-02
+226,Data Analyst,Capgemini,Chennai,On-site,Senior (5+ yrs),Contract,"Git, Tableau",23.9,2024-02-07,2024-02
+227,Python Developer,Accenture,Hyderabad,Hybrid,Fresher (0-1 yr),Full-time,"Python, Excel, NumPy, Statistics, Pandas",3.7,2024-11-14,2024-11
+228,Junior Data Analyst,Zomato,Pune,On-site,Mid (3-5 yrs),Contract,"Excel, Python, Power BI, Pandas, Git",10.5,2024-08-02,2024-08
+229,Senior Data Analyst,Amazon India,Noida,On-site,Senior (5+ yrs),Full-time,"Machine Learning, Python, NumPy",22.2,2024-09-26,2024-09
+230,Python Developer,Zomato,Delhi,Hybrid,Mid (3-5 yrs),Full-time,"Pandas, Power BI",7.2,2024-05-02,2024-05
+231,Python Developer,Zomato,Pune,On-site,Fresher (0-1 yr),Full-time,"Tableau, Machine Learning, Python",4.4,2024-10-28,2024-10
+232,BI Analyst,Zomato,Chennai,On-site,Junior (1-3 yrs),Internship,"Pandas, Python, Git, Tableau",6.3,2024-04-27,2024-04
+233,Python Developer,Flipkart,Chennai,Hybrid,Fresher (0-1 yr),Full-time,"Power BI, Git",2.5,2024-06-20,2024-06
+234,Business Analyst,Accenture,Delhi,Remote,Junior (1-3 yrs),Contract,"Python, Excel",6.3,2024-02-28,2024-02
+235,SQL Developer,Wipro,Delhi,Remote,Senior (5+ yrs),Internship,"Pandas, Tableau",16.2,2024-12-14,2024-12
+236,Python Developer,Swiggy,Chennai,Remote,Mid (3-5 yrs),Full-time,"NumPy, Tableau, Machine Learning",7.9,2024-12-19,2024-12
+237,BI Analyst,TCS,Chennai,Remote,Mid (3-5 yrs),Internship,"Git, SQL, Statistics",8.0,2024-04-12,2024-04
+238,SQL Developer,Cognizant,Hyderabad,Remote,Mid (3-5 yrs),Contract,"Tableau, Power BI",8.7,2024-05-26,2024-05
+239,Senior Data Analyst,Infosys,Bangalore,Hybrid,Senior (5+ yrs),Internship,"Excel, NumPy, Statistics, Power BI, Git",19.1,2024-08-26,2024-08
+240,Business Analyst,Cognizant,Gurgaon,On-site,Fresher (0-1 yr),Contract,"Pandas, Tableau",4.9,2024-03-13,2024-03
+241,Junior Data Analyst,Wipro,Hyderabad,Hybrid,Senior (5+ yrs),Internship,"NumPy, Excel",19.9,2024-01-04,2024-01
+242,SQL Developer,IBM India,Pune,Hybrid,Mid (3-5 yrs),Internship,"Tableau, Power BI, SQL, Python",9.8,2024-08-05,2024-08
+243,Data Analyst,Zomato,Bangalore,Hybrid,Fresher (0-1 yr),Contract,"Power BI, SQL, Python, Machine Learning, NumPy",4.1,2024-08-28,2024-08
+244,Senior Data Analyst,Flipkart,Noida,Hybrid,Senior (5+ yrs),Internship,"SQL, Machine Learning, NumPy, Git",16.8,2024-03-15,2024-03
+245,Data Analyst,Amazon India,Gurgaon,Hybrid,Mid (3-5 yrs),Full-time,"Git, Python, Excel, NumPy",11.9,2024-11-12,2024-11
+246,BI Analyst,Capgemini,Bangalore,Hybrid,Senior (5+ yrs),Internship,"Git, Power BI, Statistics, Excel, Python",17.1,2024-01-17,2024-01
+247,Junior Data Analyst,HCL Technologies,Gurgaon,On-site,Junior (1-3 yrs),Full-time,"Excel, Python, NumPy",4.3,2024-04-27,2024-04
+248,Junior Data Analyst,Amazon India,Delhi,Remote,Fresher (0-1 yr),Full-time,"Machine Learning, NumPy, Pandas, Git, Excel",3.8,2024-01-26,2024-01
+249,BI Analyst,HCL Technologies,Noida,On-site,Junior (1-3 yrs),Internship,"SQL, Git",7.1,2024-06-14,2024-06
+250,Data Scientist,Google India,Gurgaon,Remote,Senior (5+ yrs),Full-time,"Tableau, NumPy, Excel",20.0,2024-07-02,2024-07
+251,BI Analyst,Swiggy,Pune,On-site,Senior (5+ yrs),Contract,"Python, Pandas, Tableau, Excel",15.6,2024-12-22,2024-12
+252,Senior Data Analyst,Capgemini,Chennai,Hybrid,Senior (5+ yrs),Contract,"NumPy, SQL, Power BI, Statistics",14.7,2024-12-16,2024-12
+253,SQL Developer,TCS,Chennai,On-site,Mid (3-5 yrs),Internship,"Excel, Machine Learning, Python, SQL, NumPy",13.1,2024-01-08,2024-01
+254,Data Analyst,HDFC Bank,Bangalore,Hybrid,Junior (1-3 yrs),Contract,"Statistics, Machine Learning, NumPy, Pandas",7.7,2024-04-12,2024-04
+255,Python Developer,HDFC Bank,Chennai,Hybrid,Mid (3-5 yrs),Contract,"Tableau, SQL, Git",10.3,2024-10-25,2024-10
+256,Business Analyst,Capgemini,Pune,Remote,Junior (1-3 yrs),Contract,"Machine Learning, Python, Git, Power BI, SQL",6.6,2024-01-08,2024-01
+257,Data Scientist,Flipkart,Mumbai,Hybrid,Senior (5+ yrs),Contract,"Tableau, Power BI, Statistics, Excel, Pandas",18.8,2024-10-04,2024-10
+258,Data Analyst,Zomato,Mumbai,Hybrid,Fresher (0-1 yr),Contract,"Pandas, Tableau",4.1,2024-05-21,2024-05
+259,Data Scientist,IBM India,Chennai,Remote,Junior (1-3 yrs),Full-time,"Pandas, Excel, Python, Git, Power BI",8.0,2024-07-13,2024-07
+260,BI Analyst,TCS,Pune,Hybrid,Junior (1-3 yrs),Internship,"Pandas, Machine Learning, Tableau, NumPy, SQL",7.4,2024-03-10,2024-03
+261,Senior Data Analyst,ICICI Bank,Chennai,Remote,Mid (3-5 yrs),Internship,"Pandas, SQL, Power BI",9.5,2024-05-14,2024-05
+262,SQL Developer,Zomato,Mumbai,Remote,Mid (3-5 yrs),Contract,"Statistics, Python",13.1,2024-10-03,2024-10
+263,Python Developer,IBM India,Hyderabad,Remote,Senior (5+ yrs),Internship,"NumPy, Python, Excel, SQL",24.9,2024-10-15,2024-10
+264,Junior Data Analyst,Swiggy,Chennai,On-site,Senior (5+ yrs),Contract,"Pandas, Python, Machine Learning",17.9,2024-03-19,2024-03
+265,Junior Data Analyst,ICICI Bank,Hyderabad,On-site,Senior (5+ yrs),Internship,"NumPy, Git, Statistics, Power BI, Python",12.5,2024-06-01,2024-06
+266,SQL Developer,IBM India,Bangalore,Remote,Fresher (0-1 yr),Internship,"Power BI, Pandas, Tableau",2.8,2024-10-10,2024-10
+267,Junior Data Analyst,Wipro,Bangalore,Hybrid,Mid (3-5 yrs),Contract,"NumPy, Excel, Pandas, Power BI",9.5,2024-07-01,2024-07
+268,Business Analyst,Capgemini,Chennai,On-site,Fresher (0-1 yr),Internship,"SQL, Pandas, Python",3.4,2024-09-20,2024-09
+269,Data Analyst,TCS,Hyderabad,Remote,Fresher (0-1 yr),Full-time,"NumPy, Statistics",3.5,2024-08-23,2024-08
+270,Junior Data Analyst,IBM India,Bangalore,Hybrid,Senior (5+ yrs),Internship,"Machine Learning, Tableau",20.1,2024-07-27,2024-07
+271,Senior Data Analyst,HCL Technologies,Mumbai,On-site,Fresher (0-1 yr),Contract,"Git, Power BI, Tableau",4.6,2024-06-23,2024-06
+272,BI Analyst,Flipkart,Chennai,On-site,Senior (5+ yrs),Full-time,"Pandas, Power BI, Python, Statistics, Git",13.2,2024-10-22,2024-10
+273,Python Developer,Accenture,Hyderabad,Remote,Fresher (0-1 yr),Internship,"Tableau, Power BI",3.6,2024-05-15,2024-05
+274,Data Analyst,HCL Technologies,Chennai,On-site,Mid (3-5 yrs),Contract,"NumPy, SQL, Machine Learning, Git",10.3,2024-03-22,2024-03
+275,Junior Data Analyst,Swiggy,Delhi,Hybrid,Mid (3-5 yrs),Internship,"Pandas, Git",8.3,2024-08-09,2024-08
+276,BI Analyst,ICICI Bank,Noida,Remote,Junior (1-3 yrs),Full-time,"Python, Excel, SQL",5.7,2024-10-22,2024-10
+277,Python Developer,Cognizant,Noida,Hybrid,Fresher (0-1 yr),Internship,"Statistics, Git, SQL",4.7,2024-02-09,2024-02
+278,SQL Developer,Infosys,Pune,Remote,Mid (3-5 yrs),Internship,"NumPy, Power BI",10.4,2024-11-13,2024-11
+279,Junior Data Analyst,TCS,Bangalore,Remote,Junior (1-3 yrs),Internship,"Statistics, Excel, SQL, NumPy, Power BI",5.3,2024-05-02,2024-05
+280,Business Analyst,Google India,Noida,On-site,Fresher (0-1 yr),Contract,"Git, Statistics, SQL, NumPy, Power BI",3.6,2024-08-24,2024-08
+281,Data Analyst,HCL Technologies,Noida,Hybrid,Fresher (0-1 yr),Internship,"SQL, Tableau",4.7,2024-11-22,2024-11
+282,Python Developer,Swiggy,Delhi,On-site,Junior (1-3 yrs),Contract,"Machine Learning, Statistics, Pandas, Git",5.8,2024-11-08,2024-11
+283,Data Analyst,Swiggy,Delhi,Remote,Mid (3-5 yrs),Internship,"SQL, Python, Excel, Power BI",8.0,2024-12-14,2024-12
+284,Senior Data Analyst,Amazon India,Pune,On-site,Fresher (0-1 yr),Contract,"Statistics, Power BI, Pandas",2.8,2024-11-27,2024-11
+285,Senior Data Analyst,HDFC Bank,Gurgaon,Remote,Junior (1-3 yrs),Contract,"Machine Learning, Python",6.2,2024-10-16,2024-10
+286,Junior Data Analyst,Cognizant,Chennai,On-site,Senior (5+ yrs),Internship,"Machine Learning, NumPy, Git, Tableau",23.9,2024-05-13,2024-05
+287,SQL Developer,Flipkart,Gurgaon,On-site,Junior (1-3 yrs),Contract,"Machine Learning, Pandas, Power BI, SQL",4.8,2024-11-12,2024-11
+288,Junior Data Analyst,Cognizant,Delhi,Remote,Fresher (0-1 yr),Contract,"Git, NumPy, Tableau, Machine Learning, Power BI",4.5,2024-01-13,2024-01
+289,Junior Data Analyst,TCS,Bangalore,On-site,Mid (3-5 yrs),Full-time,"Tableau, Excel, Python, Pandas",12.5,2024-09-02,2024-09
+290,SQL Developer,HDFC Bank,Hyderabad,Remote,Junior (1-3 yrs),Internship,"Power BI, Machine Learning, Tableau, Pandas, NumPy",4.2,2024-07-26,2024-07
+291,SQL Developer,TCS,Bangalore,Remote,Mid (3-5 yrs),Full-time,"Power BI, Pandas, Git, NumPy, Machine Learning",13.8,2024-03-22,2024-03
+292,Senior Data Analyst,Cognizant,Chennai,Remote,Fresher (0-1 yr),Contract,"NumPy, Tableau",3.9,2024-10-28,2024-10
+293,Data Scientist,Infosys,Delhi,Hybrid,Junior (1-3 yrs),Full-time,"Pandas, Python, Tableau",6.0,2024-06-03,2024-06
+294,SQL Developer,Capgemini,Chennai,Remote,Fresher (0-1 yr),Internship,"NumPy, Machine Learning, Git",2.7,2024-04-22,2024-04
+295,SQL Developer,Swiggy,Delhi,Hybrid,Junior (1-3 yrs),Internship,"Machine Learning, Python, SQL, Pandas, Excel",5.8,2024-10-20,2024-10
+296,Business Analyst,TCS,Delhi,Hybrid,Fresher (0-1 yr),Contract,"Machine Learning, Tableau, Python, Git",4.6,2024-09-15,2024-09
+297,Python Developer,TCS,Mumbai,Remote,Junior (1-3 yrs),Contract,"SQL, Excel",7.9,2024-09-01,2024-09
+298,Senior Data Analyst,IBM India,Pune,Remote,Senior (5+ yrs),Full-time,"Machine Learning, NumPy, SQL",21.7,2024-08-23,2024-08
+299,SQL Developer,TCS,Hyderabad,On-site,Fresher (0-1 yr),Full-time,"Machine Learning, SQL, Power BI, Excel",3.5,2024-07-14,2024-07
+300,SQL Developer,Infosys,Noida,Remote,Fresher (0-1 yr),Internship,"Git, SQL",4.4,2024-12-28,2024-12
+301,Senior Data Analyst,Zomato,Hyderabad,Hybrid,Mid (3-5 yrs),Internship,"Tableau, Statistics",9.7,2024-01-16,2024-01
+302,Junior Data Analyst,Capgemini,Chennai,Remote,Senior (5+ yrs),Internship,"Excel, Tableau, Pandas, Python",19.2,2024-02-02,2024-02
+303,Data Analyst,Google India,Hyderabad,Hybrid,Junior (1-3 yrs),Internship,"Power BI, NumPy, Excel, SQL",4.7,2024-05-07,2024-05
+304,Senior Data Analyst,Cognizant,Bangalore,Remote,Senior (5+ yrs),Internship,"Tableau, SQL",15.3,2024-10-16,2024-10
+305,SQL Developer,Zomato,Chennai,Remote,Junior (1-3 yrs),Full-time,"Git, SQL, Power BI, Excel",5.9,2024-11-10,2024-11
+306,Junior Data Analyst,Zomato,Delhi,Hybrid,Junior (1-3 yrs),Full-time,"Power BI, Git, NumPy, Excel",7.4,2024-12-11,2024-12
+307,Python Developer,HDFC Bank,Gurgaon,Hybrid,Mid (3-5 yrs),Contract,"Excel, SQL",12.9,2024-03-18,2024-03
+308,Business Analyst,Amazon India,Hyderabad,Remote,Fresher (0-1 yr),Full-time,"Git, NumPy",4.4,2024-01-18,2024-01
+309,Data Scientist,ICICI Bank,Chennai,Hybrid,Senior (5+ yrs),Full-time,"Excel, Statistics, SQL, Power BI",18.3,2024-04-28,2024-04
+310,Junior Data Analyst,Accenture,Gurgaon,On-site,Junior (1-3 yrs),Internship,"Statistics, Pandas, Python",4.9,2024-02-09,2024-02
+311,SQL Developer,Capgemini,Bangalore,Remote,Junior (1-3 yrs),Internship,"NumPy, Statistics, Machine Learning, Python",4.2,2024-02-23,2024-02
+312,Data Scientist,Amazon India,Chennai,Hybrid,Senior (5+ yrs),Contract,"Machine Learning, Tableau",16.9,2024-09-13,2024-09
+313,SQL Developer,Zomato,Gurgaon,Hybrid,Fresher (0-1 yr),Internship,"Statistics, Excel, Power BI",2.7,2024-04-05,2024-04
+314,Junior Data Analyst,Cognizant,Delhi,Remote,Fresher (0-1 yr),Internship,"NumPy, Pandas, SQL",3.7,2024-04-19,2024-04
+315,Junior Data Analyst,Microsoft India,Bangalore,On-site,Fresher (0-1 yr),Full-time,"Excel, Machine Learning, Python",4.7,2024-03-09,2024-03
+316,Junior Data Analyst,Google India,Bangalore,Remote,Mid (3-5 yrs),Full-time,"Statistics, Git, Machine Learning",8.2,2024-10-05,2024-10
+317,Junior Data Analyst,Amazon India,Chennai,Remote,Mid (3-5 yrs),Contract,"Power BI, NumPy",9.7,2024-04-17,2024-04
+318,BI Analyst,Accenture,Hyderabad,On-site,Senior (5+ yrs),Internship,"Machine Learning, Git",21.8,2024-11-05,2024-11
+319,Data Analyst,Microsoft India,Noida,Hybrid,Fresher (0-1 yr),Internship,"Power BI, Statistics, NumPy, Excel, Tableau",4.5,2024-12-19,2024-12
+320,Senior Data Analyst,Microsoft India,Chennai,Hybrid,Senior (5+ yrs),Full-time,"Tableau, Machine Learning",17.3,2024-12-24,2024-12
+321,Data Analyst,HCL Technologies,Bangalore,Hybrid,Junior (1-3 yrs),Internship,"NumPy, Pandas, SQL, Statistics",5.7,2024-05-28,2024-05
+322,BI Analyst,Zomato,Mumbai,Remote,Senior (5+ yrs),Full-time,"Machine Learning, Git, Statistics, SQL, Excel",19.3,2024-05-19,2024-05
+323,SQL Developer,Google India,Chennai,Remote,Fresher (0-1 yr),Internship,"Statistics, Excel, SQL",3.0,2024-06-26,2024-06
+324,Data Analyst,Cognizant,Noida,Remote,Fresher (0-1 yr),Full-time,"Statistics, NumPy, SQL",2.7,2024-02-20,2024-02
+325,Data Analyst,Google India,Noida,Remote,Mid (3-5 yrs),Internship,"Excel, Statistics",10.1,2024-11-26,2024-11
+326,Data Scientist,IBM India,Bangalore,Remote,Junior (1-3 yrs),Internship,"Python, Pandas, Power BI",6.6,2024-02-09,2024-02
+327,BI Analyst,Zomato,Noida,Hybrid,Junior (1-3 yrs),Internship,"SQL, Git",6.2,2024-09-19,2024-09
+328,SQL Developer,Zomato,Mumbai,On-site,Junior (1-3 yrs),Contract,"Git, Python, Tableau, SQL, Power BI",6.0,2024-09-10,2024-09
+329,SQL Developer,HCL Technologies,Mumbai,Remote,Mid (3-5 yrs),Internship,"NumPy, Statistics, Power BI, Git, Excel",13.7,2024-08-19,2024-08
+330,Data Analyst,ICICI Bank,Hyderabad,Hybrid,Fresher (0-1 yr),Contract,"Power BI, Pandas, NumPy",4.9,2024-01-23,2024-01
+331,Data Scientist,Capgemini,Mumbai,On-site,Senior (5+ yrs),Internship,"SQL, Machine Learning, Excel, Power BI",16.1,2024-10-09,2024-10
+332,Junior Data Analyst,IBM India,Gurgaon,Remote,Junior (1-3 yrs),Full-time,"Tableau, Power BI, Machine Learning",4.8,2024-10-12,2024-10
+333,Junior Data Analyst,HCL Technologies,Hyderabad,On-site,Senior (5+ yrs),Internship,"Machine Learning, Python",23.0,2024-06-16,2024-06
+334,Data Scientist,ICICI Bank,Chennai,Remote,Mid (3-5 yrs),Contract,"Git, Excel, Python",10.7,2024-09-02,2024-09
+335,SQL Developer,Google India,Chennai,Hybrid,Fresher (0-1 yr),Internship,"Pandas, Python, Machine Learning, Git, SQL",3.4,2024-06-20,2024-06
+336,Data Scientist,Cognizant,Mumbai,On-site,Mid (3-5 yrs),Contract,"Pandas, Excel, Statistics, Power BI",8.5,2024-06-12,2024-06
+337,BI Analyst,Amazon India,Gurgaon,On-site,Junior (1-3 yrs),Internship,"SQL, Tableau, Power BI",6.2,2024-04-05,2024-04
+338,Junior Data Analyst,ICICI Bank,Bangalore,On-site,Senior (5+ yrs),Contract,"Machine Learning, Git, Pandas",22.2,2024-09-28,2024-09
+339,Data Analyst,Google India,Hyderabad,Remote,Junior (1-3 yrs),Full-time,"Tableau, Statistics, SQL",5.8,2024-06-12,2024-06
+340,Data Scientist,Zomato,Bangalore,Hybrid,Fresher (0-1 yr),Contract,"Git, Machine Learning, Excel",4.9,2024-06-22,2024-06
+341,Python Developer,HDFC Bank,Hyderabad,Hybrid,Mid (3-5 yrs),Contract,"Excel, Pandas, NumPy",11.4,2024-02-03,2024-02
+342,Junior Data Analyst,Swiggy,Pune,Hybrid,Mid (3-5 yrs),Internship,"Tableau, NumPy, Git, Power BI",12.5,2024-12-19,2024-12
+343,Python Developer,Microsoft India,Chennai,On-site,Fresher (0-1 yr),Full-time,"Tableau, SQL, Power BI",2.9,2024-02-16,2024-02
+344,Data Analyst,Infosys,Noida,Remote,Fresher (0-1 yr),Full-time,"Git, Excel, SQL, Pandas",4.8,2024-04-08,2024-04
+345,Data Scientist,HDFC Bank,Chennai,On-site,Junior (1-3 yrs),Full-time,"Pandas, Git",7.5,2024-09-09,2024-09
+346,Python Developer,Accenture,Chennai,Remote,Senior (5+ yrs),Internship,"Machine Learning, Git, Tableau, Excel, Power BI",19.0,2024-08-10,2024-08
+347,SQL Developer,Microsoft India,Mumbai,On-site,Mid (3-5 yrs),Full-time,"Machine Learning, Excel",9.4,2024-01-23,2024-01
+348,Python Developer,ICICI Bank,Mumbai,On-site,Senior (5+ yrs),Contract,"Python, Machine Learning, Pandas",14.5,2024-07-13,2024-07
+349,Business Analyst,Cognizant,Noida,Hybrid,Junior (1-3 yrs),Contract,"NumPy, Power BI",6.1,2024-10-26,2024-10
+350,Data Scientist,Flipkart,Mumbai,Hybrid,Junior (1-3 yrs),Full-time,"Excel, Tableau, SQL",6.5,2024-05-23,2024-05
+351,Python Developer,IBM India,Delhi,On-site,Junior (1-3 yrs),Full-time,"Excel, SQL",5.1,2024-08-24,2024-08
+352,Data Analyst,Capgemini,Hyderabad,On-site,Fresher (0-1 yr),Contract,"Pandas, NumPy, Tableau",4.5,2024-06-15,2024-06
+353,Data Analyst,Swiggy,Hyderabad,On-site,Fresher (0-1 yr),Contract,"SQL, Machine Learning, Statistics, Git, NumPy",4.7,2024-07-27,2024-07
+354,Data Analyst,HCL Technologies,Pune,Hybrid,Senior (5+ yrs),Full-time,"Power BI, Statistics",21.6,2024-11-07,2024-11
+355,Python Developer,Google India,Mumbai,Hybrid,Junior (1-3 yrs),Internship,"Machine Learning, Git",4.5,2024-05-07,2024-05
+356,SQL Developer,TCS,Pune,On-site,Junior (1-3 yrs),Internship,"Pandas, Python, Excel, NumPy, Statistics",6.3,2024-04-01,2024-04
+357,Data Analyst,ICICI Bank,Chennai,Hybrid,Fresher (0-1 yr),Full-time,"Statistics, SQL, Pandas",4.8,2024-11-02,2024-11
+358,Data Analyst,Zomato,Chennai,Remote,Fresher (0-1 yr),Full-time,"Power BI, Pandas, Machine Learning, NumPy, Git",3.7,2024-07-12,2024-07
+359,Junior Data Analyst,Amazon India,Bangalore,Hybrid,Senior (5+ yrs),Internship,"Machine Learning, Statistics, Power BI, Tableau",14.4,2024-12-15,2024-12
+360,Data Scientist,Cognizant,Hyderabad,Remote,Junior (1-3 yrs),Contract,"Tableau, Machine Learning, Pandas, Power BI",4.0,2024-07-24,2024-07
+361,Junior Data Analyst,Infosys,Delhi,Remote,Junior (1-3 yrs),Contract,"Machine Learning, NumPy",4.8,2024-09-05,2024-09
+362,Data Scientist,Swiggy,Noida,Remote,Mid (3-5 yrs),Full-time,"Machine Learning, SQL",7.3,2024-03-28,2024-03
+363,Data Analyst,IBM India,Hyderabad,Hybrid,Junior (1-3 yrs),Full-time,"Git, NumPy",6.6,2024-12-19,2024-12
+364,Data Scientist,TCS,Delhi,On-site,Fresher (0-1 yr),Full-time,"Statistics, SQL, Git",4.5,2024-09-24,2024-09
+365,BI Analyst,Zomato,Bangalore,Remote,Mid (3-5 yrs),Internship,"SQL, Tableau",7.5,2024-09-04,2024-09
+366,Senior Data Analyst,Capgemini,Noida,On-site,Junior (1-3 yrs),Internship,"Git, Excel, NumPy",7.0,2024-10-12,2024-10
+367,Python Developer,Microsoft India,Hyderabad,On-site,Junior (1-3 yrs),Internship,"Machine Learning, Pandas, Excel, Tableau, NumPy",5.8,2024-06-18,2024-06
+368,SQL Developer,Zomato,Noida,Remote,Senior (5+ yrs),Internship,"Git, Power BI, Machine Learning, Statistics",22.0,2024-05-12,2024-05
+369,Python Developer,HDFC Bank,Noida,On-site,Fresher (0-1 yr),Contract,"Machine Learning, Excel",5.0,2024-05-08,2024-05
+370,Business Analyst,Swiggy,Bangalore,Remote,Mid (3-5 yrs),Internship,"SQL, Python, Statistics",9.5,2024-06-19,2024-06
+371,Business Analyst,Capgemini,Mumbai,Hybrid,Fresher (0-1 yr),Internship,"Git, Power BI, SQL, Pandas, Excel",4.5,2024-12-23,2024-12
+372,Senior Data Analyst,Flipkart,Bangalore,Remote,Senior (5+ yrs),Full-time,"Pandas, Git",23.4,2024-02-28,2024-02
+373,Business Analyst,Infosys,Noida,On-site,Mid (3-5 yrs),Internship,"Pandas, Machine Learning",11.0,2024-12-08,2024-12
+374,Junior Data Analyst,TCS,Noida,Hybrid,Fresher (0-1 yr),Full-time,"Tableau, NumPy, Excel, SQL, Statistics",2.7,2024-01-18,2024-01
+375,BI Analyst,Amazon India,Hyderabad,Hybrid,Senior (5+ yrs),Internship,"Excel, Statistics, Power BI",18.3,2024-04-18,2024-04
+376,Business Analyst,Capgemini,Hyderabad,Hybrid,Senior (5+ yrs),Contract,"SQL, NumPy",17.5,2024-06-12,2024-06
+377,Data Analyst,Flipkart,Chennai,Hybrid,Senior (5+ yrs),Internship,"Statistics, Python, Power BI",14.6,2024-12-28,2024-12
+378,Senior Data Analyst,HCL Technologies,Bangalore,On-site,Junior (1-3 yrs),Contract,"Pandas, SQL",5.2,2024-06-07,2024-06
+379,Business Analyst,IBM India,Mumbai,Remote,Senior (5+ yrs),Internship,"Python, NumPy, Git",15.3,2024-04-26,2024-04
+380,Data Scientist,TCS,Gurgaon,Remote,Fresher (0-1 yr),Full-time,"Tableau, Pandas, SQL, Python, Excel",4.7,2024-04-13,2024-04
+381,Senior Data Analyst,Swiggy,Gurgaon,Remote,Fresher (0-1 yr),Full-time,"Machine Learning, Statistics, Python",2.6,2024-05-11,2024-05
+382,Python Developer,Google India,Chennai,On-site,Mid (3-5 yrs),Internship,"Pandas, Tableau, Power BI, Machine Learning",8.9,2024-05-13,2024-05
+383,Data Analyst,Amazon India,Pune,On-site,Mid (3-5 yrs),Contract,"SQL, NumPy, Power BI",9.9,2024-07-10,2024-07
+384,SQL Developer,HDFC Bank,Chennai,On-site,Junior (1-3 yrs),Internship,"Excel, Tableau, Git",5.7,2024-03-21,2024-03
+385,Junior Data Analyst,Swiggy,Hyderabad,Remote,Fresher (0-1 yr),Full-time,"Excel, Python, Pandas, Power BI",4.9,2024-12-27,2024-12
+386,Data Scientist,Accenture,Pune,On-site,Junior (1-3 yrs),Full-time,"Git, Tableau",6.4,2024-10-08,2024-10
+387,Business Analyst,Infosys,Delhi,On-site,Senior (5+ yrs),Full-time,"Pandas, Excel, NumPy, Power BI, Statistics",13.8,2024-01-14,2024-01
+388,Data Analyst,Amazon India,Noida,On-site,Junior (1-3 yrs),Full-time,"Excel, Statistics",7.5,2024-06-28,2024-06
+389,Python Developer,Capgemini,Noida,Hybrid,Fresher (0-1 yr),Internship,"Pandas, NumPy, Python, Tableau, Statistics",3.6,2024-01-08,2024-01
+390,BI Analyst,TCS,Noida,Remote,Fresher (0-1 yr),Full-time,"Statistics, NumPy, Tableau, Machine Learning",4.6,2024-07-10,2024-07
+391,Data Analyst,Accenture,Gurgaon,Remote,Senior (5+ yrs),Full-time,"Excel, Machine Learning",13.8,2024-08-01,2024-08
+392,Junior Data Analyst,HDFC Bank,Pune,Hybrid,Fresher (0-1 yr),Contract,"Excel, SQL, Machine Learning, Python",4.3,2024-02-17,2024-02
+393,BI Analyst,Cognizant,Noida,Remote,Senior (5+ yrs),Full-time,"Pandas, Excel, Machine Learning",23.3,2024-12-02,2024-12
+394,BI Analyst,Flipkart,Mumbai,Remote,Senior (5+ yrs),Contract,"SQL, Excel, Power BI",12.0,2024-01-15,2024-01
+395,Python Developer,ICICI Bank,Bangalore,Remote,Senior (5+ yrs),Full-time,"Git, Statistics, Machine Learning",17.3,2024-10-01,2024-10
+396,Business Analyst,Amazon India,Pune,On-site,Junior (1-3 yrs),Full-time,"Pandas, Python",6.0,2024-10-27,2024-10
+397,Data Scientist,Swiggy,Hyderabad,On-site,Fresher (0-1 yr),Contract,"Excel, Tableau, Git",4.9,2024-06-02,2024-06
+398,Senior Data Analyst,Flipkart,Delhi,Hybrid,Senior (5+ yrs),Full-time,"Machine Learning, SQL, Tableau, Power BI, Git",13.6,2024-06-17,2024-06
+399,BI Analyst,IBM India,Pune,Remote,Fresher (0-1 yr),Full-time,"Statistics, Tableau",3.6,2024-05-17,2024-05
+400,SQL Developer,Accenture,Gurgaon,Remote,Senior (5+ yrs),Contract,"Git, Power BI, Tableau",18.3,2024-01-15,2024-01
+401,Senior Data Analyst,IBM India,Noida,Hybrid,Fresher (0-1 yr),Contract,"Machine Learning, Power BI, Python, Pandas",3.0,2024-02-10,2024-02
+402,Data Scientist,Swiggy,Bangalore,On-site,Mid (3-5 yrs),Contract,"Git, Python, Excel, SQL, Statistics",12.8,2024-08-16,2024-08
+403,Data Analyst,Accenture,Gurgaon,On-site,Senior (5+ yrs),Internship,"Statistics, NumPy, Python, Machine Learning",18.8,2024-11-11,2024-11
+404,Data Analyst,IBM India,Delhi,Hybrid,Fresher (0-1 yr),Full-time,"Python, Pandas, NumPy, Machine Learning",3.8,2024-10-13,2024-10
+405,Junior Data Analyst,HCL Technologies,Mumbai,Remote,Mid (3-5 yrs),Internship,"Tableau, NumPy",7.6,2024-06-15,2024-06
+406,Data Scientist,IBM India,Mumbai,On-site,Fresher (0-1 yr),Contract,"Power BI, SQL",3.7,2024-08-17,2024-08
+407,Junior Data Analyst,IBM India,Delhi,Hybrid,Mid (3-5 yrs),Contract,"SQL, Machine Learning, Excel",10.3,2024-07-23,2024-07
+408,Senior Data Analyst,Infosys,Mumbai,On-site,Fresher (0-1 yr),Contract,"Python, SQL, Tableau, Git, Statistics",4.4,2024-04-11,2024-04
+409,Business Analyst,IBM India,Mumbai,Hybrid,Mid (3-5 yrs),Contract,"Tableau, Excel",8.1,2024-10-18,2024-10
+410,Senior Data Analyst,IBM India,Delhi,Remote,Mid (3-5 yrs),Contract,"Tableau, Power BI, Excel",7.5,2024-06-18,2024-06
+411,Python Developer,TCS,Chennai,On-site,Senior (5+ yrs),Internship,"SQL, NumPy",12.7,2024-03-23,2024-03
+412,Python Developer,Zomato,Mumbai,Hybrid,Junior (1-3 yrs),Internship,"Statistics, Excel",4.4,2024-12-15,2024-12
+413,Senior Data Analyst,HDFC Bank,Mumbai,Remote,Senior (5+ yrs),Contract,"Power BI, Excel, Tableau",23.9,2024-12-22,2024-12
+414,SQL Developer,Swiggy,Gurgaon,Hybrid,Fresher (0-1 yr),Full-time,"SQL, Pandas, Statistics, Power BI, Git",3.2,2024-10-05,2024-10
+415,Senior Data Analyst,Google India,Hyderabad,Hybrid,Fresher (0-1 yr),Contract,"NumPy, Git, Power BI, Tableau, SQL",3.9,2024-07-03,2024-07
+416,SQL Developer,IBM India,Noida,Hybrid,Mid (3-5 yrs),Internship,"Excel, SQL, Statistics",7.8,2024-06-18,2024-06
+417,Senior Data Analyst,HDFC Bank,Chennai,Hybrid,Senior (5+ yrs),Full-time,"Git, NumPy",16.3,2024-01-03,2024-01
+418,Business Analyst,Accenture,Bangalore,On-site,Junior (1-3 yrs),Contract,"NumPy, Statistics, Power BI, SQL",6.7,2024-10-26,2024-10
+419,Data Scientist,Microsoft India,Delhi,On-site,Fresher (0-1 yr),Internship,"Excel, Tableau, Python, Git, Machine Learning",3.7,2024-09-27,2024-09
+420,SQL Developer,HCL Technologies,Mumbai,On-site,Junior (1-3 yrs),Contract,"Pandas, NumPy, Machine Learning, Power BI, Statistics",6.2,2024-08-05,2024-08
+421,Business Analyst,Google India,Delhi,Hybrid,Junior (1-3 yrs),Contract,"Excel, Python, SQL",6.6,2024-08-22,2024-08
+422,BI Analyst,Accenture,Hyderabad,On-site,Senior (5+ yrs),Contract,"Git, Excel, Statistics, Tableau, Power BI",19.2,2024-06-08,2024-06
+423,Junior Data Analyst,Microsoft India,Bangalore,Remote,Senior (5+ yrs),Internship,"Machine Learning, Tableau, NumPy",24.0,2024-01-02,2024-01
+424,Python Developer,Zomato,Hyderabad,Remote,Senior (5+ yrs),Internship,"Excel, Machine Learning",24.8,2024-05-15,2024-05
+425,Senior Data Analyst,Wipro,Pune,Hybrid,Fresher (0-1 yr),Internship,"Git, Python, Pandas, Tableau",4.4,2024-09-16,2024-09
+426,SQL Developer,Microsoft India,Delhi,Hybrid,Mid (3-5 yrs),Full-time,"Git, Tableau",12.1,2024-01-21,2024-01
+427,Python Developer,Cognizant,Bangalore,Remote,Mid (3-5 yrs),Internship,"Tableau, Statistics",7.6,2024-05-09,2024-05
+428,Junior Data Analyst,Amazon India,Mumbai,Hybrid,Fresher (0-1 yr),Internship,"Git, Excel",4.8,2024-11-15,2024-11
+429,SQL Developer,Cognizant,Mumbai,Remote,Junior (1-3 yrs),Contract,"Machine Learning, Python, Pandas",7.9,2024-10-27,2024-10
+430,Junior Data Analyst,ICICI Bank,Noida,Hybrid,Junior (1-3 yrs),Internship,"Excel, Power BI, Pandas, Python, Statistics",5.1,2024-01-06,2024-01
+431,Python Developer,Google India,Gurgaon,Hybrid,Senior (5+ yrs),Internship,"NumPy, Git, Statistics",15.4,2024-07-01,2024-07
+432,Data Scientist,HDFC Bank,Noida,Remote,Mid (3-5 yrs),Internship,"SQL, Machine Learning",11.5,2024-07-20,2024-07
+433,Data Scientist,Swiggy,Mumbai,Hybrid,Fresher (0-1 yr),Contract,"Statistics, Power BI, Machine Learning, Tableau, Excel",4.2,2024-06-18,2024-06
+434,Data Analyst,Infosys,Hyderabad,On-site,Senior (5+ yrs),Full-time,"Statistics, Pandas",14.9,2024-04-02,2024-04
+435,Data Analyst,Wipro,Bangalore,Remote,Junior (1-3 yrs),Internship,"SQL, Git",7.4,2024-11-25,2024-11
+436,Junior Data Analyst,HCL Technologies,Chennai,Hybrid,Mid (3-5 yrs),Contract,"Statistics, Tableau",12.4,2024-11-25,2024-11
+437,SQL Developer,Amazon India,Chennai,On-site,Mid (3-5 yrs),Full-time,"NumPy, Pandas, Python, Excel, Git",8.2,2024-04-20,2024-04
+438,BI Analyst,Cognizant,Gurgaon,On-site,Junior (1-3 yrs),Internship,"Power BI, SQL, Statistics, Pandas, Excel",4.4,2024-10-24,2024-10
+439,Data Scientist,HDFC Bank,Bangalore,Hybrid,Junior (1-3 yrs),Internship,"Python, NumPy",5.1,2024-07-19,2024-07
+440,Data Analyst,ICICI Bank,Gurgaon,Hybrid,Senior (5+ yrs),Internship,"Machine Learning, Power BI",12.0,2024-08-04,2024-08
+441,SQL Developer,Swiggy,Mumbai,Hybrid,Fresher (0-1 yr),Internship,"Pandas, Machine Learning",4.6,2024-08-25,2024-08
+442,Data Scientist,IBM India,Chennai,Remote,Fresher (0-1 yr),Contract,"Tableau, NumPy, SQL",4.1,2024-02-21,2024-02
+443,Python Developer,IBM India,Chennai,On-site,Junior (1-3 yrs),Full-time,"Statistics, NumPy, SQL",7.2,2024-08-18,2024-08
+444,Python Developer,Infosys,Bangalore,Hybrid,Fresher (0-1 yr),Contract,"NumPy, SQL",3.0,2024-09-15,2024-09
+445,Junior Data Analyst,Capgemini,Hyderabad,On-site,Junior (1-3 yrs),Contract,"Statistics, Python",5.0,2024-01-06,2024-01
+446,Data Analyst,Flipkart,Hyderabad,Hybrid,Junior (1-3 yrs),Internship,"SQL, Git",6.0,2024-04-03,2024-04
+447,Business Analyst,Microsoft India,Delhi,Remote,Senior (5+ yrs),Contract,"Git, Machine Learning",13.8,2024-04-25,2024-04
+448,Data Analyst,Cognizant,Delhi,On-site,Fresher (0-1 yr),Contract,"NumPy, Excel, Pandas",3.9,2024-10-02,2024-10
+449,Junior Data Analyst,HCL Technologies,Noida,On-site,Fresher (0-1 yr),Contract,"Python, Git",2.9,2024-11-19,2024-11
+450,Data Scientist,Microsoft India,Gurgaon,Remote,Junior (1-3 yrs),Full-time,"Tableau, Machine Learning, Statistics",5.6,2024-10-23,2024-10
+451,Data Analyst,Cognizant,Gurgaon,Remote,Fresher (0-1 yr),Internship,"Pandas, NumPy, Python, Tableau",3.1,2024-09-04,2024-09
+452,SQL Developer,Capgemini,Gurgaon,Remote,Junior (1-3 yrs),Contract,"Power BI, SQL",7.2,2024-08-16,2024-08
+453,Junior Data Analyst,Cognizant,Bangalore,On-site,Mid (3-5 yrs),Contract,"NumPy, Tableau, Pandas",11.3,2024-08-02,2024-08
+454,Senior Data Analyst,TCS,Chennai,On-site,Fresher (0-1 yr),Contract,"SQL, Power BI",4.3,2024-06-14,2024-06
+455,Business Analyst,Swiggy,Pune,On-site,Mid (3-5 yrs),Full-time,"Power BI, NumPy",13.1,2024-04-03,2024-04
+456,Python Developer,ICICI Bank,Bangalore,Hybrid,Junior (1-3 yrs),Full-time,"Excel, NumPy, Pandas, SQL, Power BI",6.9,2024-05-07,2024-05
+457,SQL Developer,Accenture,Bangalore,Remote,Fresher (0-1 yr),Contract,"SQL, Statistics, Machine Learning",3.5,2024-04-10,2024-04
+458,Junior Data Analyst,Cognizant,Pune,On-site,Senior (5+ yrs),Internship,"Power BI, Statistics, Machine Learning, Excel, Python",21.5,2024-04-08,2024-04
+459,SQL Developer,Microsoft India,Pune,Remote,Junior (1-3 yrs),Internship,"NumPy, Python",4.2,2024-09-02,2024-09
+460,BI Analyst,Google India,Gurgaon,Remote,Fresher (0-1 yr),Contract,"Power BI, SQL, Python, Pandas, NumPy",3.5,2024-06-10,2024-06
+461,Business Analyst,Wipro,Bangalore,Hybrid,Mid (3-5 yrs),Full-time,"Git, Python, Statistics, Power BI, SQL",13.1,2024-06-21,2024-06
+462,Python Developer,Infosys,Hyderabad,Hybrid,Mid (3-5 yrs),Internship,"Tableau, NumPy",12.3,2024-10-18,2024-10
+463,Business Analyst,Wipro,Delhi,Remote,Fresher (0-1 yr),Internship,"Python, SQL, NumPy, Excel",3.7,2024-06-06,2024-06
+464,Senior Data Analyst,IBM India,Chennai,Hybrid,Junior (1-3 yrs),Internship,"Statistics, Power BI",7.0,2024-06-12,2024-06
+465,Data Scientist,Microsoft India,Mumbai,On-site,Fresher (0-1 yr),Contract,"Statistics, Git, SQL, Power BI",4.3,2024-09-10,2024-09
+466,Python Developer,Zomato,Hyderabad,On-site,Senior (5+ yrs),Full-time,"NumPy, Excel",15.7,2024-02-06,2024-02
+467,Data Scientist,HCL Technologies,Chennai,Hybrid,Junior (1-3 yrs),Full-time,"Tableau, NumPy",7.9,2024-03-16,2024-03
+468,SQL Developer,Microsoft India,Gurgaon,Remote,Fresher (0-1 yr),Contract,"SQL, Python, Power BI",4.6,2024-06-14,2024-06
+469,SQL Developer,Swiggy,Gurgaon,Remote,Senior (5+ yrs),Contract,"Git, Excel, Tableau, SQL",22.3,2024-06-10,2024-06
+470,Data Analyst,Accenture,Delhi,Hybrid,Senior (5+ yrs),Full-time,"Machine Learning, Tableau, Excel",24.7,2024-12-22,2024-12
+471,Junior Data Analyst,Cognizant,Pune,On-site,Fresher (0-1 yr),Contract,"Statistics, Tableau, Pandas",3.0,2024-01-22,2024-01
+472,SQL Developer,Zomato,Chennai,Hybrid,Senior (5+ yrs),Internship,"Machine Learning, Tableau, SQL",24.0,2024-08-25,2024-08
+473,Junior Data Analyst,HDFC Bank,Delhi,On-site,Fresher (0-1 yr),Internship,"Tableau, Statistics, Git, NumPy",5.0,2024-03-26,2024-03
+474,Python Developer,Swiggy,Hyderabad,Remote,Senior (5+ yrs),Full-time,"Machine Learning, SQL, Tableau",12.3,2024-04-15,2024-04
+475,SQL Developer,Wipro,Delhi,On-site,Junior (1-3 yrs),Internship,"Tableau, Power BI, Python",4.3,2024-11-22,2024-11
+476,Senior Data Analyst,Google India,Pune,Hybrid,Mid (3-5 yrs),Internship,"Pandas, NumPy",8.0,2024-06-13,2024-06
+477,SQL Developer,Infosys,Mumbai,Hybrid,Mid (3-5 yrs),Contract,"Machine Learning, SQL, Power BI, Pandas, Statistics",12.2,2024-08-10,2024-08
+478,Junior Data Analyst,Microsoft India,Noida,On-site,Fresher (0-1 yr),Full-time,"Tableau, Statistics, Pandas",2.7,2024-07-03,2024-07
+479,Data Analyst,Microsoft India,Mumbai,Hybrid,Junior (1-3 yrs),Internship,"Git, Excel, Power BI, SQL, Statistics",5.2,2024-05-27,2024-05
+480,Data Scientist,ICICI Bank,Gurgaon,On-site,Fresher (0-1 yr),Full-time,"Tableau, Git, Statistics",2.8,2024-05-14,2024-05
+481,Junior Data Analyst,ICICI Bank,Pune,On-site,Fresher (0-1 yr),Contract,"SQL, Pandas, Statistics, Tableau, Power BI",4.7,2024-08-23,2024-08
+482,Senior Data Analyst,Zomato,Bangalore,Hybrid,Junior (1-3 yrs),Internship,"Excel, Pandas",5.8,2024-06-06,2024-06
+483,Data Analyst,Amazon India,Delhi,Hybrid,Mid (3-5 yrs),Full-time,"Tableau, Machine Learning, SQL, Git",8.4,2024-02-20,2024-02
+484,Junior Data Analyst,Swiggy,Delhi,Remote,Mid (3-5 yrs),Contract,"SQL, Machine Learning, Pandas, NumPy",8.0,2024-05-12,2024-05
+485,Python Developer,Microsoft India,Delhi,On-site,Fresher (0-1 yr),Full-time,"Machine Learning, Power BI, Git",4.5,2024-12-27,2024-12
+486,Senior Data Analyst,Microsoft India,Gurgaon,On-site,Fresher (0-1 yr),Full-time,"Statistics, Pandas",3.3,2024-08-20,2024-08
+487,SQL Developer,Cognizant,Mumbai,On-site,Fresher (0-1 yr),Full-time,"Excel, Power BI, Tableau",2.8,2024-02-14,2024-02
+488,Senior Data Analyst,Wipro,Bangalore,Hybrid,Senior (5+ yrs),Full-time,"SQL, Python, Machine Learning",18.1,2024-01-03,2024-01
+489,Data Scientist,Infosys,Hyderabad,On-site,Junior (1-3 yrs),Internship,"Excel, Pandas, Python",4.4,2024-05-19,2024-05
+490,SQL Developer,Zomato,Chennai,Remote,Junior (1-3 yrs),Internship,"SQL, Python",6.1,2024-05-06,2024-05
+491,Data Analyst,HCL Technologies,Pune,Remote,Senior (5+ yrs),Contract,"Statistics, SQL, Excel",22.9,2024-07-07,2024-07
+492,Business Analyst,Microsoft India,Hyderabad,Hybrid,Fresher (0-1 yr),Contract,"Machine Learning, Excel",3.7,2024-05-18,2024-05
+493,Data Analyst,Wipro,Delhi,Hybrid,Fresher (0-1 yr),Contract,"Statistics, Tableau, Git, SQL",3.9,2024-07-07,2024-07
+494,Senior Data Analyst,ICICI Bank,Delhi,On-site,Fresher (0-1 yr),Internship,"SQL, NumPy, Statistics, Tableau, Pandas",4.2,2024-07-13,2024-07
+495,Senior Data Analyst,Cognizant,Hyderabad,Hybrid,Junior (1-3 yrs),Contract,"Git, NumPy, SQL",4.9,2024-08-09,2024-08
+496,Data Scientist,Google India,Delhi,Hybrid,Senior (5+ yrs),Contract,"Excel, Statistics, SQL, Python",15.3,2024-11-05,2024-11
+497,Data Analyst,HCL Technologies,Bangalore,On-site,Senior (5+ yrs),Internship,"Excel, NumPy",19.9,2024-05-20,2024-05
+498,Senior Data Analyst,Wipro,Gurgaon,Hybrid,Junior (1-3 yrs),Contract,"Statistics, Machine Learning, Tableau, Git, Excel",7.2,2024-01-25,2024-01
+499,Data Analyst,Microsoft India,Hyderabad,Hybrid,Senior (5+ yrs),Contract,"Statistics, Git, Python, Machine Learning, SQL",19.2,2024-05-23,2024-05
+500,Junior Data Analyst,ICICI Bank,Noida,On-site,Mid (3-5 yrs),Internship,"Statistics, SQL, Git, Pandas, Tableau",11.8,2024-08-18,2024-08
+501,Junior Data Analyst,TCS,Noida,Hybrid,Senior (5+ yrs),Internship,"Git, Pandas, Tableau, Excel, Python",18.3,2024-06-12,2024-06
+502,Data Analyst,Swiggy,Noida,On-site,Senior (5+ yrs),Contract,"NumPy, Pandas, Python, Machine Learning",15.2,2024-05-19,2024-05
+503,Senior Data Analyst,Wipro,Mumbai,On-site,Mid (3-5 yrs),Full-time,"Machine Learning, Pandas",7.3,2024-07-19,2024-07
+504,BI Analyst,Amazon India,Bangalore,Remote,Senior (5+ yrs),Internship,"Pandas, NumPy",19.4,2024-02-26,2024-02
+505,Python Developer,HCL Technologies,Pune,Hybrid,Senior (5+ yrs),Internship,"Excel, Tableau, Pandas, Power BI",14.6,2024-02-27,2024-02
+506,Business Analyst,Flipkart,Mumbai,On-site,Mid (3-5 yrs),Internship,"Power BI, SQL, Machine Learning, Tableau, Excel",8.9,2024-09-16,2024-09
+507,BI Analyst,IBM India,Delhi,On-site,Mid (3-5 yrs),Internship,"NumPy, Machine Learning, Pandas, SQL",9.9,2024-09-15,2024-09
+508,Junior Data Analyst,Infosys,Chennai,Remote,Senior (5+ yrs),Full-time,"Tableau, Machine Learning, NumPy, Git, Pandas",20.1,2024-06-15,2024-06
+509,Junior Data Analyst,Capgemini,Chennai,Remote,Mid (3-5 yrs),Contract,"Pandas, SQL, Power BI, NumPy, Statistics",8.9,2024-03-09,2024-03
+510,Business Analyst,Google India,Pune,On-site,Junior (1-3 yrs),Full-time,"Power BI, Tableau",5.9,2024-07-14,2024-07
+511,Data Analyst,IBM India,Chennai,Hybrid,Junior (1-3 yrs),Full-time,"Tableau, Machine Learning, Excel, Pandas",7.4,2024-08-26,2024-08
+512,Data Analyst,TCS,Hyderabad,Hybrid,Mid (3-5 yrs),Full-time,"Pandas, SQL, NumPy, Statistics, Git",12.9,2024-10-24,2024-10
+513,Senior Data Analyst,Amazon India,Gurgaon,On-site,Junior (1-3 yrs),Internship,"Pandas, Git",7.3,2024-12-24,2024-12
+514,Business Analyst,Microsoft India,Pune,On-site,Fresher (0-1 yr),Full-time,"Tableau, Statistics, NumPy",3.1,2024-08-18,2024-08
+515,SQL Developer,HCL Technologies,Delhi,Remote,Senior (5+ yrs),Contract,"Tableau, Excel, Pandas",18.2,2024-05-01,2024-05
+516,Data Analyst,TCS,Pune,Hybrid,Senior (5+ yrs),Contract,"SQL, Machine Learning, Power BI, NumPy",18.3,2024-07-09,2024-07
+517,Data Scientist,Wipro,Pune,Hybrid,Junior (1-3 yrs),Full-time,"Pandas, NumPy, Python, Excel, Statistics",7.3,2024-08-24,2024-08
+518,BI Analyst,Swiggy,Noida,On-site,Junior (1-3 yrs),Internship,"Machine Learning, SQL, Pandas, Power BI",6.4,2024-12-11,2024-12
+519,Python Developer,Infosys,Bangalore,Remote,Junior (1-3 yrs),Internship,"Excel, Python, NumPy, SQL, Pandas",5.2,2024-02-06,2024-02
+520,Business Analyst,Accenture,Noida,Hybrid,Senior (5+ yrs),Contract,"Tableau, Excel, Pandas",22.4,2024-07-12,2024-07
+521,Junior Data Analyst,Google India,Noida,Remote,Junior (1-3 yrs),Full-time,"Machine Learning, Power BI",7.6,2024-04-09,2024-04
+522,Junior Data Analyst,TCS,Noida,Remote,Senior (5+ yrs),Internship,"Excel, SQL, Pandas, Machine Learning",24.3,2024-12-17,2024-12
+523,BI Analyst,HDFC Bank,Gurgaon,On-site,Junior (1-3 yrs),Internship,"Power BI, Tableau, Machine Learning",7.0,2024-07-28,2024-07
+524,Business Analyst,IBM India,Mumbai,Remote,Junior (1-3 yrs),Contract,"NumPy, Excel, Python",5.2,2024-10-15,2024-10
+525,Business Analyst,Zomato,Gurgaon,On-site,Fresher (0-1 yr),Contract,"Pandas, NumPy, Power BI",4.3,2024-12-20,2024-12
+526,Data Scientist,Wipro,Hyderabad,Remote,Fresher (0-1 yr),Full-time,"Power BI, Statistics, Pandas, Tableau",4.8,2024-10-23,2024-10
+527,Data Analyst,Infosys,Mumbai,Remote,Senior (5+ yrs),Contract,"Pandas, Excel, Python, Tableau, SQL",15.4,2024-06-15,2024-06
+528,Junior Data Analyst,Wipro,Delhi,Remote,Senior (5+ yrs),Full-time,"SQL, Pandas, Python, Git",18.5,2024-05-24,2024-05
+529,SQL Developer,Microsoft India,Mumbai,Hybrid,Mid (3-5 yrs),Internship,"NumPy, Excel, Pandas, Statistics",14.0,2024-03-18,2024-03
+530,Python Developer,TCS,Pune,On-site,Fresher (0-1 yr),Full-time,"Python, Statistics, Tableau",2.9,2024-02-16,2024-02
+531,Data Analyst,HDFC Bank,Delhi,Remote,Senior (5+ yrs),Contract,"SQL, Excel, Git, Machine Learning, Python",14.6,2024-03-24,2024-03
+532,Data Scientist,IBM India,Bangalore,Remote,Junior (1-3 yrs),Contract,"Power BI, Statistics",6.7,2024-01-10,2024-01
+533,Senior Data Analyst,Google India,Delhi,Remote,Fresher (0-1 yr),Contract,"Python, SQL, Statistics",4.6,2024-08-21,2024-08
+534,Data Scientist,Infosys,Delhi,On-site,Senior (5+ yrs),Contract,"Power BI, Python, Tableau",16.2,2024-02-18,2024-02
+535,BI Analyst,Wipro,Noida,Hybrid,Junior (1-3 yrs),Full-time,"SQL, Python, Power BI, Git, Statistics",7.1,2024-11-05,2024-11
+536,Senior Data Analyst,Flipkart,Gurgaon,Hybrid,Mid (3-5 yrs),Internship,"Pandas, SQL, Git",10.6,2024-07-16,2024-07
+537,Data Scientist,Microsoft India,Hyderabad,Hybrid,Mid (3-5 yrs),Internship,"NumPy, Git, SQL",7.3,2024-08-22,2024-08
+538,Business Analyst,Accenture,Gurgaon,Remote,Fresher (0-1 yr),Contract,"NumPy, SQL, Statistics, Excel, Machine Learning",5.0,2024-05-27,2024-05
+539,Business Analyst,Microsoft India,Mumbai,Remote,Fresher (0-1 yr),Internship,"Python, Machine Learning",2.8,2024-02-15,2024-02
+540,Data Scientist,Zomato,Mumbai,Remote,Fresher (0-1 yr),Internship,"SQL, Statistics",2.9,2024-07-02,2024-07
+541,Senior Data Analyst,Microsoft India,Mumbai,Hybrid,Senior (5+ yrs),Internship,"Git, Tableau, Pandas, NumPy, SQL",14.7,2024-10-09,2024-10
+542,Senior Data Analyst,Microsoft India,Bangalore,On-site,Senior (5+ yrs),Full-time,"Excel, Statistics",18.0,2024-11-24,2024-11
+543,Python Developer,Flipkart,Delhi,Remote,Senior (5+ yrs),Contract,"Excel, Git",12.2,2024-01-23,2024-01
+544,Business Analyst,Infosys,Pune,Hybrid,Junior (1-3 yrs),Internship,"NumPy, Machine Learning, Power BI",4.3,2024-03-16,2024-03
+545,BI Analyst,Infosys,Hyderabad,On-site,Junior (1-3 yrs),Internship,"Statistics, Git, Python, NumPy, Power BI",6.3,2024-10-27,2024-10
+546,BI Analyst,TCS,Delhi,On-site,Fresher (0-1 yr),Internship,"NumPy, Statistics, Tableau, Python, Power BI",3.5,2024-12-20,2024-12
+547,Python Developer,Capgemini,Bangalore,Remote,Fresher (0-1 yr),Contract,"Machine Learning, SQL, Tableau, Pandas",3.5,2024-08-20,2024-08
+548,SQL Developer,HDFC Bank,Noida,On-site,Junior (1-3 yrs),Contract,"Statistics, Pandas, Git",4.9,2024-11-11,2024-11
+549,Python Developer,Accenture,Mumbai,Remote,Senior (5+ yrs),Contract,"Statistics, Excel, Power BI, Machine Learning",21.0,2024-08-05,2024-08
+550,Junior Data Analyst,IBM India,Chennai,Remote,Senior (5+ yrs),Full-time,"Statistics, Tableau, Power BI, SQL, Machine Learning",18.3,2024-05-12,2024-05
+551,Junior Data Analyst,Cognizant,Bangalore,On-site,Mid (3-5 yrs),Contract,"Git, Power BI",7.8,2024-05-11,2024-05
+552,SQL Developer,TCS,Mumbai,On-site,Fresher (0-1 yr),Internship,"Statistics, Git",4.9,2024-02-26,2024-02
+553,Senior Data Analyst,TCS,Hyderabad,On-site,Fresher (0-1 yr),Full-time,"Excel, Tableau, Statistics, NumPy",3.8,2024-02-05,2024-02
+554,SQL Developer,Swiggy,Chennai,On-site,Junior (1-3 yrs),Contract,"Python, Power BI, Statistics, Excel, NumPy",6.0,2024-06-23,2024-06
+555,BI Analyst,Zomato,Pune,On-site,Senior (5+ yrs),Full-time,"NumPy, Git, Machine Learning",23.7,2024-09-26,2024-09
+556,SQL Developer,Infosys,Gurgaon,On-site,Fresher (0-1 yr),Internship,"SQL, Pandas",3.3,2024-03-14,2024-03
+557,Data Analyst,Google India,Bangalore,Remote,Junior (1-3 yrs),Internship,"Machine Learning, Tableau",5.7,2024-12-18,2024-12
+558,Data Scientist,Swiggy,Delhi,On-site,Mid (3-5 yrs),Internship,"NumPy, Statistics, Power BI",13.2,2024-10-21,2024-10
+559,Python Developer,Zomato,Noida,On-site,Mid (3-5 yrs),Full-time,"Machine Learning, Pandas",9.7,2024-03-17,2024-03
+560,Data Scientist,IBM India,Hyderabad,Remote,Mid (3-5 yrs),Internship,"Excel, Python, Machine Learning, NumPy",10.8,2024-05-24,2024-05
+561,BI Analyst,HCL Technologies,Bangalore,Hybrid,Mid (3-5 yrs),Internship,"SQL, Python, Git, Power BI",9.1,2024-08-11,2024-08
+562,Business Analyst,Capgemini,Delhi,Hybrid,Mid (3-5 yrs),Internship,"NumPy, Machine Learning, Power BI",7.7,2024-04-27,2024-04
+563,SQL Developer,HDFC Bank,Hyderabad,On-site,Senior (5+ yrs),Contract,"SQL, Python",17.5,2024-04-15,2024-04
+564,Senior Data Analyst,Zomato,Noida,Remote,Senior (5+ yrs),Contract,"NumPy, Statistics, Machine Learning, Pandas, Power BI",22.7,2024-03-16,2024-03
+565,Python Developer,Accenture,Hyderabad,Remote,Junior (1-3 yrs),Contract,"Python, Excel, Pandas, Git, Tableau",7.4,2024-06-19,2024-06
+566,Data Scientist,TCS,Chennai,On-site,Mid (3-5 yrs),Contract,"Tableau, Git, Statistics, Python",12.5,2024-10-14,2024-10
+567,Data Analyst,Flipkart,Mumbai,On-site,Junior (1-3 yrs),Internship,"Python, SQL, Pandas, Git, NumPy",5.7,2024-10-15,2024-10
+568,SQL Developer,Google India,Gurgaon,Remote,Junior (1-3 yrs),Full-time,"Statistics, Git, Excel, NumPy, Pandas",5.3,2024-11-20,2024-11
+569,BI Analyst,Google India,Pune,Hybrid,Mid (3-5 yrs),Internship,"Statistics, Tableau",11.5,2024-12-01,2024-12
+570,Data Scientist,HCL Technologies,Hyderabad,On-site,Fresher (0-1 yr),Internship,"Statistics, Machine Learning, Python",2.8,2024-03-01,2024-03
+571,Data Scientist,IBM India,Pune,Remote,Senior (5+ yrs),Full-time,"NumPy, Python, Statistics, Git",24.1,2024-03-14,2024-03
+572,Data Analyst,Swiggy,Noida,Hybrid,Fresher (0-1 yr),Full-time,"Machine Learning, Excel",3.2,2024-02-05,2024-02
+573,Data Scientist,Microsoft India,Chennai,On-site,Mid (3-5 yrs),Full-time,"Python, Tableau",9.7,2024-07-11,2024-07
+574,Data Scientist,Google India,Hyderabad,On-site,Junior (1-3 yrs),Full-time,"Statistics, Machine Learning, NumPy",7.8,2024-06-15,2024-06
+575,BI Analyst,Wipro,Gurgaon,On-site,Senior (5+ yrs),Internship,"Python, Tableau, SQL",15.2,2024-03-10,2024-03
+576,BI Analyst,HDFC Bank,Hyderabad,Remote,Junior (1-3 yrs),Full-time,"Machine Learning, Excel, Power BI, Tableau",7.8,2024-09-15,2024-09
+577,Data Analyst,Infosys,Gurgaon,Remote,Mid (3-5 yrs),Internship,"Python, Git, Statistics",8.9,2024-11-13,2024-11
+578,SQL Developer,IBM India,Mumbai,On-site,Junior (1-3 yrs),Internship,"Tableau, SQL",5.6,2024-03-24,2024-03
+579,Data Scientist,Microsoft India,Pune,Remote,Mid (3-5 yrs),Internship,"Tableau, Statistics, Git, SQL",11.6,2024-04-15,2024-04
+580,SQL Developer,Infosys,Chennai,Remote,Fresher (0-1 yr),Internship,"Python, Git, Excel, Power BI, Tableau",4.7,2024-07-18,2024-07
+581,Senior Data Analyst,Wipro,Bangalore,Remote,Senior (5+ yrs),Internship,"Pandas, NumPy",22.8,2024-03-27,2024-03
+582,Data Analyst,HCL Technologies,Gurgaon,Hybrid,Junior (1-3 yrs),Contract,"Power BI, Python",7.0,2024-12-12,2024-12
+583,Business Analyst,Wipro,Mumbai,Remote,Junior (1-3 yrs),Full-time,"Pandas, Python, Tableau, Power BI, Git",6.8,2024-04-27,2024-04
+584,BI Analyst,HCL Technologies,Mumbai,Remote,Senior (5+ yrs),Full-time,"Git, Excel, SQL",19.6,2024-03-09,2024-03
+585,Business Analyst,Amazon India,Pune,Remote,Fresher (0-1 yr),Internship,"Machine Learning, Statistics, Python, Power BI",4.1,2024-01-28,2024-01
+586,SQL Developer,Microsoft India,Noida,Hybrid,Fresher (0-1 yr),Internship,"Statistics, Pandas, Python, Machine Learning, SQL",2.6,2024-09-15,2024-09
+587,SQL Developer,Infosys,Noida,On-site,Mid (3-5 yrs),Full-time,"Power BI, NumPy",13.7,2024-04-06,2024-04
+588,SQL Developer,Flipkart,Hyderabad,Remote,Fresher (0-1 yr),Full-time,"NumPy, Python, Pandas, Git, Excel",3.1,2024-06-27,2024-06
+589,Data Analyst,Swiggy,Pune,On-site,Senior (5+ yrs),Full-time,"Git, SQL, Machine Learning, Python, NumPy",16.9,2024-12-03,2024-12
+590,Junior Data Analyst,TCS,Gurgaon,On-site,Mid (3-5 yrs),Internship,"SQL, Git, Python, Tableau, Statistics",9.1,2024-02-20,2024-02
+591,BI Analyst,Capgemini,Bangalore,Hybrid,Senior (5+ yrs),Contract,"Git, SQL, Pandas, Statistics, NumPy",22.2,2024-06-19,2024-06
+592,Business Analyst,HCL Technologies,Hyderabad,On-site,Fresher (0-1 yr),Internship,"Git, Excel, Tableau",3.4,2024-10-15,2024-10
+593,Junior Data Analyst,Capgemini,Chennai,On-site,Fresher (0-1 yr),Full-time,"Git, NumPy, Pandas, Excel",4.0,2024-03-05,2024-03
+594,Python Developer,Flipkart,Delhi,Hybrid,Mid (3-5 yrs),Full-time,"Python, Power BI, Git",10.0,2024-04-21,2024-04
+595,Business Analyst,Wipro,Delhi,On-site,Senior (5+ yrs),Internship,"Git, Pandas, Machine Learning, Tableau, Excel",17.4,2024-08-26,2024-08
+596,Data Analyst,ICICI Bank,Pune,On-site,Junior (1-3 yrs),Internship,"Statistics, Power BI, Machine Learning",5.9,2024-06-26,2024-06
+597,BI Analyst,IBM India,Noida,On-site,Fresher (0-1 yr),Contract,"SQL, Pandas",2.6,2024-05-15,2024-05
+598,Business Analyst,Zomato,Bangalore,On-site,Junior (1-3 yrs),Full-time,"Excel, Power BI, Tableau, Pandas",4.7,2024-04-06,2024-04
+599,Business Analyst,Infosys,Chennai,Hybrid,Fresher (0-1 yr),Full-time,"NumPy, SQL, Pandas",4.8,2024-04-12,2024-04
+600,SQL Developer,Cognizant,Noida,Remote,Fresher (0-1 yr),Full-time,"Excel, Power BI, Machine Learning",3.8,2024-06-20,2024-06
+601,BI Analyst,Capgemini,Bangalore,Remote,Junior (1-3 yrs),Internship,"Excel, Pandas, Power BI, Python",6.5,2024-03-28,2024-03
+602,Python Developer,IBM India,Hyderabad,Hybrid,Fresher (0-1 yr),Full-time,"Machine Learning, Pandas, Statistics, Tableau, Power BI",2.9,2024-09-23,2024-09
+603,Python Developer,ICICI Bank,Gurgaon,Hybrid,Senior (5+ yrs),Internship,"Power BI, Git",23.6,2024-04-13,2024-04
+604,Business Analyst,Flipkart,Noida,Hybrid,Junior (1-3 yrs),Contract,"Machine Learning, SQL, Excel, NumPy",4.3,2024-06-08,2024-06
+605,Data Analyst,HDFC Bank,Delhi,Hybrid,Senior (5+ yrs),Contract,"NumPy, Pandas, Statistics, Excel, Git",17.0,2024-04-09,2024-04
+606,Senior Data Analyst,Zomato,Hyderabad,Hybrid,Fresher (0-1 yr),Contract,"SQL, Git, Machine Learning",3.4,2024-06-07,2024-06
+607,SQL Developer,Amazon India,Mumbai,Remote,Mid (3-5 yrs),Full-time,"Machine Learning, Tableau, Python",12.4,2024-06-26,2024-06
+608,BI Analyst,Google India,Bangalore,Hybrid,Junior (1-3 yrs),Contract,"Power BI, Git, Statistics",4.9,2024-09-25,2024-09
+609,Python Developer,HDFC Bank,Delhi,On-site,Mid (3-5 yrs),Full-time,"NumPy, Power BI, Statistics, Machine Learning, Tableau",7.2,2024-03-10,2024-03
+610,Data Analyst,ICICI Bank,Delhi,Hybrid,Junior (1-3 yrs),Contract,"NumPy, Machine Learning, Tableau, Excel, Statistics",4.1,2024-03-05,2024-03
+611,SQL Developer,Google India,Noida,On-site,Senior (5+ yrs),Full-time,"Power BI, Statistics, SQL, Excel, Tableau",24.5,2024-05-03,2024-05
+612,Junior Data Analyst,HCL Technologies,Chennai,On-site,Senior (5+ yrs),Full-time,"Power BI, SQL, NumPy",15.7,2024-11-17,2024-11
+613,Senior Data Analyst,HDFC Bank,Bangalore,Hybrid,Fresher (0-1 yr),Full-time,"NumPy, Git, Excel, Python",2.8,2024-12-03,2024-12
+614,BI Analyst,IBM India,Chennai,On-site,Mid (3-5 yrs),Contract,"Excel, Tableau, Power BI, Machine Learning, Pandas",11.8,2024-01-05,2024-01
+615,Python Developer,Wipro,Noida,Remote,Junior (1-3 yrs),Internship,"Git, Statistics, Machine Learning, Power BI",6.3,2024-05-21,2024-05
+616,Python Developer,Zomato,Mumbai,Hybrid,Junior (1-3 yrs),Contract,"Excel, NumPy, Statistics",5.5,2024-12-19,2024-12
+617,Senior Data Analyst,Google India,Bangalore,On-site,Junior (1-3 yrs),Contract,"SQL, Power BI, Statistics, Machine Learning",8.0,2024-06-03,2024-06
+618,Senior Data Analyst,Swiggy,Noida,Hybrid,Junior (1-3 yrs),Contract,"Machine Learning, Python, Statistics",4.1,2024-11-24,2024-11
+619,Python Developer,Google India,Delhi,Remote,Senior (5+ yrs),Full-time,"Python, Git, Tableau, Machine Learning, Pandas",23.9,2024-12-15,2024-12
+620,Python Developer,HDFC Bank,Hyderabad,On-site,Junior (1-3 yrs),Internship,"Excel, Statistics, Tableau, NumPy, SQL",6.0,2024-02-06,2024-02
+621,Data Scientist,HCL Technologies,Noida,On-site,Fresher (0-1 yr),Internship,"Tableau, Excel",3.6,2024-12-02,2024-12
+622,Business Analyst,HDFC Bank,Bangalore,Remote,Fresher (0-1 yr),Contract,"Statistics, Python, Machine Learning, Git",4.4,2024-04-12,2024-04
+623,Business Analyst,IBM India,Hyderabad,On-site,Senior (5+ yrs),Full-time,"Pandas, Power BI",20.8,2024-02-26,2024-02
+624,Junior Data Analyst,Cognizant,Bangalore,Hybrid,Fresher (0-1 yr),Contract,"Machine Learning, Power BI, Git, Tableau",3.5,2024-04-07,2024-04
+625,Senior Data Analyst,Zomato,Delhi,On-site,Fresher (0-1 yr),Contract,"Python, NumPy, Power BI, Statistics",3.1,2024-05-21,2024-05
+626,SQL Developer,TCS,Hyderabad,On-site,Senior (5+ yrs),Contract,"SQL, Machine Learning, Excel, Statistics, Python",19.8,2024-12-13,2024-12
+627,Junior Data Analyst,Swiggy,Chennai,Remote,Mid (3-5 yrs),Internship,"SQL, Pandas, Python, Tableau, NumPy",10.1,2024-12-08,2024-12
+628,Data Analyst,Capgemini,Bangalore,Remote,Fresher (0-1 yr),Contract,"NumPy, Power BI, SQL",2.6,2024-05-07,2024-05
+629,Junior Data Analyst,Google India,Pune,Remote,Fresher (0-1 yr),Full-time,"Pandas, Excel, Tableau, Machine Learning, Git",3.7,2024-07-21,2024-07
+630,Data Scientist,Infosys,Pune,Remote,Mid (3-5 yrs),Contract,"Power BI, Machine Learning, Python",13.3,2024-04-26,2024-04
+631,Business Analyst,Google India,Delhi,On-site,Senior (5+ yrs),Internship,"SQL, Statistics",12.9,2024-11-05,2024-11
+632,Business Analyst,Accenture,Hyderabad,On-site,Junior (1-3 yrs),Full-time,"NumPy, Statistics",5.2,2024-04-14,2024-04
+633,Junior Data Analyst,Capgemini,Mumbai,Hybrid,Senior (5+ yrs),Internship,"Tableau, Statistics, SQL",24.4,2024-07-06,2024-07
+634,Python Developer,HDFC Bank,Noida,Remote,Senior (5+ yrs),Full-time,"Python, NumPy, Machine Learning, Statistics, Git",21.9,2024-10-18,2024-10
+635,Junior Data Analyst,Cognizant,Mumbai,Hybrid,Senior (5+ yrs),Contract,"Tableau, NumPy, Statistics, Python, Excel",13.8,2024-03-07,2024-03
+636,Data Analyst,Infosys,Delhi,Hybrid,Senior (5+ yrs),Contract,"Pandas, NumPy, Statistics, Excel, Git",24.8,2024-01-04,2024-01
+637,BI Analyst,Cognizant,Pune,Hybrid,Mid (3-5 yrs),Internship,"Machine Learning, Statistics, Pandas, Git",7.4,2024-07-24,2024-07
+638,Business Analyst,Capgemini,Gurgaon,On-site,Mid (3-5 yrs),Internship,"Excel, Tableau",11.2,2024-03-09,2024-03
+639,Business Analyst,Cognizant,Bangalore,On-site,Fresher (0-1 yr),Internship,"NumPy, SQL, Power BI, Statistics, Machine Learning",4.6,2024-05-17,2024-05
+640,BI Analyst,Flipkart,Noida,Remote,Fresher (0-1 yr),Full-time,"Excel, Tableau, Power BI, Pandas",3.5,2024-03-27,2024-03
+641,Python Developer,Infosys,Hyderabad,On-site,Senior (5+ yrs),Internship,"Tableau, NumPy, Excel, SQL, Statistics",14.4,2024-08-06,2024-08
+642,Senior Data Analyst,HDFC Bank,Pune,On-site,Junior (1-3 yrs),Full-time,"Power BI, Tableau, NumPy",5.8,2024-02-28,2024-02
+643,Junior Data Analyst,Wipro,Mumbai,On-site,Senior (5+ yrs),Full-time,"SQL, Pandas, Python, Tableau",15.1,2024-02-01,2024-02
+644,Data Analyst,Amazon India,Bangalore,Remote,Fresher (0-1 yr),Full-time,"Machine Learning, Python, NumPy",4.0,2024-05-16,2024-05
+645,Python Developer,Swiggy,Noida,Hybrid,Mid (3-5 yrs),Internship,"Pandas, Power BI, Git, Statistics",9.8,2024-06-28,2024-06
+646,SQL Developer,HCL Technologies,Bangalore,Hybrid,Senior (5+ yrs),Internship,"Python, SQL, Tableau",24.4,2024-04-12,2024-04
+647,Python Developer,ICICI Bank,Noida,Remote,Junior (1-3 yrs),Full-time,"Python, Pandas, Git, NumPy",6.9,2024-04-20,2024-04
+648,Python Developer,Google India,Hyderabad,Hybrid,Senior (5+ yrs),Contract,"NumPy, Tableau",19.9,2024-09-19,2024-09
+649,Data Analyst,Accenture,Gurgaon,On-site,Mid (3-5 yrs),Internship,"Excel, Statistics, SQL, Power BI, Pandas",10.8,2024-03-25,2024-03
+650,Senior Data Analyst,HCL Technologies,Noida,Remote,Fresher (0-1 yr),Full-time,"NumPy, Tableau, Power BI, Pandas",3.1,2024-11-04,2024-11
+651,Junior Data Analyst,ICICI Bank,Hyderabad,Remote,Mid (3-5 yrs),Full-time,"Pandas, NumPy",13.4,2024-12-13,2024-12
+652,BI Analyst,Capgemini,Pune,Hybrid,Fresher (0-1 yr),Contract,"SQL, Git",3.4,2024-04-24,2024-04
+653,Senior Data Analyst,Zomato,Chennai,Hybrid,Senior (5+ yrs),Internship,"Tableau, Python",19.7,2024-07-14,2024-07
+654,SQL Developer,Zomato,Chennai,Remote,Junior (1-3 yrs),Full-time,"Python, Machine Learning, Statistics, Excel, SQL",7.3,2024-04-16,2024-04
+655,Python Developer,Accenture,Mumbai,On-site,Fresher (0-1 yr),Internship,"Tableau, Machine Learning, SQL, Excel",5.0,2024-08-21,2024-08
+656,Business Analyst,ICICI Bank,Mumbai,Remote,Senior (5+ yrs),Full-time,"Excel, Power BI, Machine Learning, Pandas",21.6,2024-03-28,2024-03
+657,Python Developer,Google India,Mumbai,Remote,Junior (1-3 yrs),Full-time,"Pandas, NumPy, Statistics, Excel, Power BI",5.6,2024-05-10,2024-05
+658,Business Analyst,Google India,Hyderabad,On-site,Mid (3-5 yrs),Internship,"Tableau, Statistics",11.6,2024-08-23,2024-08
+659,Python Developer,Flipkart,Chennai,On-site,Junior (1-3 yrs),Internship,"Python, Pandas, SQL",6.7,2024-03-13,2024-03
+660,BI Analyst,Cognizant,Bangalore,On-site,Mid (3-5 yrs),Contract,"Python, SQL, Pandas",11.2,2024-11-24,2024-11
+661,BI Analyst,Capgemini,Bangalore,On-site,Junior (1-3 yrs),Contract,"Tableau, Excel, NumPy, Statistics, Pandas",8.0,2024-02-25,2024-02
+662,Python Developer,Google India,Mumbai,Remote,Senior (5+ yrs),Contract,"SQL, Git",13.1,2024-11-17,2024-11
+663,Business Analyst,Infosys,Gurgaon,Hybrid,Fresher (0-1 yr),Internship,"NumPy, Statistics, Git",3.2,2024-06-03,2024-06
+664,Junior Data Analyst,Google India,Bangalore,Hybrid,Senior (5+ yrs),Full-time,"Power BI, SQL",14.3,2024-03-01,2024-03
+665,Python Developer,Swiggy,Hyderabad,On-site,Junior (1-3 yrs),Internship,"Excel, SQL, Tableau",6.0,2024-02-17,2024-02
+666,Data Scientist,Zomato,Chennai,Hybrid,Fresher (0-1 yr),Full-time,"Python, Machine Learning, Tableau, Pandas",3.8,2024-08-23,2024-08
+667,SQL Developer,Zomato,Pune,Remote,Fresher (0-1 yr),Internship,"Power BI, Python",3.0,2024-04-05,2024-04
+668,Business Analyst,Zomato,Mumbai,On-site,Senior (5+ yrs),Full-time,"Tableau, NumPy, Excel, Power BI",17.9,2024-11-14,2024-11
+669,Junior Data Analyst,IBM India,Hyderabad,Remote,Mid (3-5 yrs),Internship,"Pandas, Machine Learning, Excel",9.9,2024-07-13,2024-07
+670,Data Analyst,Capgemini,Hyderabad,Hybrid,Fresher (0-1 yr),Internship,"Machine Learning, NumPy",2.7,2024-06-11,2024-06
+671,Data Scientist,Accenture,Pune,Hybrid,Fresher (0-1 yr),Full-time,"Power BI, NumPy, SQL, Machine Learning, Python",2.9,2024-05-19,2024-05
+672,Python Developer,HCL Technologies,Delhi,Remote,Mid (3-5 yrs),Internship,"Git, SQL, Python, Machine Learning",9.2,2024-03-12,2024-03
+673,BI Analyst,ICICI Bank,Chennai,Hybrid,Fresher (0-1 yr),Internship,"Excel, Git, NumPy",3.9,2024-12-21,2024-12
+674,SQL Developer,Capgemini,Noida,Remote,Senior (5+ yrs),Full-time,"Pandas, Statistics, Tableau, Excel, Power BI",18.8,2024-04-10,2024-04
+675,Senior Data Analyst,Flipkart,Noida,Hybrid,Fresher (0-1 yr),Internship,"SQL, Power BI",4.9,2024-01-03,2024-01
+676,Data Scientist,ICICI Bank,Bangalore,Hybrid,Junior (1-3 yrs),Contract,"Machine Learning, Git, SQL, Power BI, Python",6.5,2024-12-01,2024-12
+677,BI Analyst,Zomato,Pune,Remote,Fresher (0-1 yr),Internship,"Excel, Machine Learning, Power BI, SQL, Python",3.4,2024-06-02,2024-06
+678,BI Analyst,ICICI Bank,Noida,On-site,Mid (3-5 yrs),Full-time,"Power BI, Machine Learning, SQL, Excel",9.1,2024-04-01,2024-04
+679,BI Analyst,IBM India,Mumbai,Remote,Fresher (0-1 yr),Contract,"Python, Pandas, Git, Tableau, Power BI",3.3,2024-01-12,2024-01
+680,Junior Data Analyst,Google India,Delhi,On-site,Fresher (0-1 yr),Contract,"Power BI, SQL, Excel, Git, Python",3.7,2024-11-09,2024-11
+681,Business Analyst,ICICI Bank,Noida,Hybrid,Mid (3-5 yrs),Contract,"Excel, Machine Learning, Tableau, Python, Power BI",11.6,2024-03-12,2024-03
+682,BI Analyst,Infosys,Delhi,Remote,Junior (1-3 yrs),Full-time,"Tableau, Python, Excel",5.6,2024-01-06,2024-01
+683,Business Analyst,ICICI Bank,Mumbai,On-site,Senior (5+ yrs),Contract,"Excel, Pandas, NumPy, Tableau, Machine Learning",24.0,2024-07-05,2024-07
+684,Senior Data Analyst,HCL Technologies,Bangalore,On-site,Junior (1-3 yrs),Contract,"Power BI, Python",6.7,2024-10-24,2024-10
+685,Data Analyst,Microsoft India,Gurgaon,Hybrid,Mid (3-5 yrs),Contract,"NumPy, Power BI",11.3,2024-03-08,2024-03
+686,Data Scientist,HCL Technologies,Mumbai,Remote,Junior (1-3 yrs),Internship,"Power BI, Statistics, SQL, Pandas, NumPy",6.0,2024-10-21,2024-10
+687,Junior Data Analyst,Capgemini,Hyderabad,On-site,Senior (5+ yrs),Full-time,"Power BI, Excel, NumPy, Python",20.0,2024-01-13,2024-01
+688,BI Analyst,Flipkart,Pune,On-site,Mid (3-5 yrs),Contract,"Python, Machine Learning, NumPy, Pandas, Git",9.1,2024-05-12,2024-05
+689,BI Analyst,Capgemini,Delhi,On-site,Junior (1-3 yrs),Full-time,"Python, Pandas",4.8,2024-10-04,2024-10
+690,BI Analyst,Cognizant,Mumbai,Hybrid,Mid (3-5 yrs),Contract,"SQL, Git, Python, Pandas",10.9,2024-06-12,2024-06
+691,SQL Developer,Zomato,Pune,Remote,Mid (3-5 yrs),Full-time,"SQL, Git, Excel, Pandas, NumPy",10.3,2024-11-27,2024-11
+692,Business Analyst,IBM India,Gurgaon,On-site,Fresher (0-1 yr),Internship,"Tableau, Statistics, Power BI, Git",3.7,2024-04-14,2024-04
+693,Data Scientist,Zomato,Delhi,Hybrid,Fresher (0-1 yr),Contract,"Statistics, NumPy",3.8,2024-01-06,2024-01
+694,Data Scientist,Accenture,Mumbai,On-site,Fresher (0-1 yr),Internship,"NumPy, Statistics, SQL",2.9,2024-07-18,2024-07
+695,BI Analyst,Google India,Mumbai,On-site,Junior (1-3 yrs),Full-time,"Git, Power BI, Python",7.5,2024-08-17,2024-08
+696,Data Scientist,Flipkart,Pune,Hybrid,Mid (3-5 yrs),Internship,"Excel, Power BI",7.3,2024-01-21,2024-01
+697,Junior Data Analyst,Amazon India,Chennai,Hybrid,Fresher (0-1 yr),Internship,"Power BI, Machine Learning, SQL",2.5,2024-10-12,2024-10
+698,SQL Developer,Wipro,Mumbai,Remote,Junior (1-3 yrs),Contract,"Pandas, Python, Machine Learning, NumPy",5.4,2024-05-06,2024-05
+699,Data Scientist,Infosys,Hyderabad,Remote,Senior (5+ yrs),Internship,"Git, Machine Learning, Power BI, NumPy",17.7,2024-04-19,2024-04
+700,BI Analyst,Accenture,Gurgaon,On-site,Senior (5+ yrs),Contract,"Statistics, SQL, Git",14.4,2024-03-07,2024-03
+701,Python Developer,Cognizant,Mumbai,On-site,Mid (3-5 yrs),Full-time,"NumPy, Power BI, SQL",8.0,2024-08-21,2024-08
+702,BI Analyst,HCL Technologies,Chennai,Remote,Fresher (0-1 yr),Internship,"NumPy, Git",2.6,2024-11-02,2024-11
+703,Junior Data Analyst,Capgemini,Hyderabad,Hybrid,Junior (1-3 yrs),Internship,"Python, SQL",6.2,2024-12-03,2024-12
+704,Business Analyst,Accenture,Gurgaon,Remote,Senior (5+ yrs),Full-time,"Pandas, Statistics, Excel, SQL",12.7,2024-11-18,2024-11
+705,Senior Data Analyst,Infosys,Bangalore,On-site,Mid (3-5 yrs),Full-time,"Excel, Python, Power BI, Machine Learning, SQL",10.0,2024-11-10,2024-11
+706,Business Analyst,Google India,Hyderabad,Hybrid,Junior (1-3 yrs),Full-time,"SQL, Tableau, Pandas",4.3,2024-06-03,2024-06
+707,Data Analyst,Accenture,Chennai,Hybrid,Mid (3-5 yrs),Internship,"NumPy, Excel, Tableau",11.4,2024-02-09,2024-02
+708,Python Developer,Zomato,Mumbai,Remote,Fresher (0-1 yr),Full-time,"Excel, Pandas, Git",3.5,2024-08-27,2024-08
+709,Senior Data Analyst,HCL Technologies,Noida,Remote,Mid (3-5 yrs),Full-time,"Pandas, Excel",8.3,2024-06-16,2024-06
+710,BI Analyst,ICICI Bank,Noida,Remote,Mid (3-5 yrs),Full-time,"NumPy, Git, Statistics",10.8,2024-09-27,2024-09
+711,Business Analyst,Google India,Hyderabad,Remote,Senior (5+ yrs),Internship,"SQL, Power BI, Pandas",12.0,2024-01-12,2024-01
+712,Python Developer,Accenture,Hyderabad,On-site,Mid (3-5 yrs),Contract,"Tableau, Statistics, Excel",12.8,2024-07-08,2024-07
+713,Business Analyst,Capgemini,Bangalore,Remote,Junior (1-3 yrs),Full-time,"NumPy, Python, Git",5.5,2024-11-19,2024-11
+714,Senior Data Analyst,ICICI Bank,Chennai,On-site,Junior (1-3 yrs),Contract,"SQL, Power BI, Git",4.0,2024-07-05,2024-07
+715,Junior Data Analyst,ICICI Bank,Chennai,Remote,Mid (3-5 yrs),Contract,"Pandas, Statistics, Python, Excel, Machine Learning",8.1,2024-01-20,2024-01
+716,Junior Data Analyst,Cognizant,Bangalore,Hybrid,Senior (5+ yrs),Internship,"Machine Learning, Tableau, Git, Pandas, SQL",17.5,2024-02-17,2024-02
+717,BI Analyst,Accenture,Pune,Hybrid,Fresher (0-1 yr),Full-time,"Excel, Machine Learning, SQL, NumPy, Pandas",3.7,2024-11-13,2024-11
+718,BI Analyst,Cognizant,Bangalore,Hybrid,Senior (5+ yrs),Full-time,"SQL, Git, Machine Learning, Excel",19.8,2024-01-08,2024-01
+719,Data Scientist,Cognizant,Hyderabad,On-site,Junior (1-3 yrs),Internship,"Tableau, Power BI",6.2,2024-01-08,2024-01
+720,Data Scientist,Wipro,Bangalore,Remote,Senior (5+ yrs),Full-time,"Pandas, SQL",18.3,2024-06-25,2024-06
+721,Data Scientist,Google India,Pune,Hybrid,Senior (5+ yrs),Internship,"Excel, SQL, Pandas, Power BI",23.7,2024-09-26,2024-09
+722,Junior Data Analyst,Infosys,Noida,Hybrid,Fresher (0-1 yr),Contract,"Excel, Statistics, SQL",4.7,2024-12-08,2024-12
+723,Business Analyst,Accenture,Chennai,Remote,Mid (3-5 yrs),Contract,"Pandas, Tableau, Git",11.4,2024-01-23,2024-01
+724,BI Analyst,Capgemini,Pune,Remote,Fresher (0-1 yr),Full-time,"SQL, Python, Excel, NumPy, Statistics",3.9,2024-02-16,2024-02
+725,Senior Data Analyst,HDFC Bank,Delhi,On-site,Mid (3-5 yrs),Full-time,"Tableau, Pandas",9.5,2024-12-25,2024-12
+726,Python Developer,Amazon India,Gurgaon,Hybrid,Senior (5+ yrs),Internship,"SQL, Statistics, Python",16.7,2024-07-28,2024-07
+727,Junior Data Analyst,HDFC Bank,Delhi,Remote,Mid (3-5 yrs),Contract,"NumPy, Machine Learning",10.2,2024-11-02,2024-11
+728,Data Analyst,Capgemini,Bangalore,On-site,Fresher (0-1 yr),Contract,"Excel, NumPy, SQL, Statistics, Power BI",4.7,2024-06-15,2024-06
+729,Python Developer,HDFC Bank,Hyderabad,On-site,Junior (1-3 yrs),Internship,"NumPy, Git",4.8,2024-06-11,2024-06
+730,Python Developer,IBM India,Gurgaon,On-site,Mid (3-5 yrs),Contract,"Machine Learning, Excel",13.6,2024-04-11,2024-04
+731,Data Analyst,Google India,Bangalore,Hybrid,Senior (5+ yrs),Contract,"Python, Power BI, Git",24.4,2024-05-09,2024-05
+732,Junior Data Analyst,Wipro,Chennai,On-site,Mid (3-5 yrs),Contract,"Tableau, Statistics",13.1,2024-11-09,2024-11
+733,Junior Data Analyst,TCS,Hyderabad,Hybrid,Mid (3-5 yrs),Contract,"Power BI, Pandas, NumPy",10.4,2024-03-23,2024-03
+734,BI Analyst,Zomato,Noida,On-site,Junior (1-3 yrs),Full-time,"Pandas, Git, Python",4.6,2024-03-16,2024-03
+735,SQL Developer,HCL Technologies,Noida,Hybrid,Fresher (0-1 yr),Contract,"Statistics, SQL, Python",3.0,2024-07-23,2024-07
+736,Junior Data Analyst,Google India,Pune,Hybrid,Junior (1-3 yrs),Full-time,"Pandas, Git",4.1,2024-09-27,2024-09
+737,Senior Data Analyst,ICICI Bank,Gurgaon,Hybrid,Senior (5+ yrs),Contract,"Machine Learning, NumPy, Pandas, Python",24.0,2024-06-06,2024-06
+738,Junior Data Analyst,Microsoft India,Noida,Hybrid,Senior (5+ yrs),Internship,"Git, SQL, Machine Learning, NumPy",22.9,2024-01-20,2024-01
+739,BI Analyst,HCL Technologies,Gurgaon,Remote,Fresher (0-1 yr),Internship,"Machine Learning, Python, Tableau, NumPy, Power BI",3.0,2024-09-13,2024-09
+740,Senior Data Analyst,IBM India,Gurgaon,On-site,Mid (3-5 yrs),Contract,"NumPy, Python, Pandas, Git, SQL",10.6,2024-11-09,2024-11
+741,Data Scientist,Microsoft India,Pune,On-site,Senior (5+ yrs),Full-time,"Python, Excel",22.3,2024-09-27,2024-09
+742,SQL Developer,Swiggy,Chennai,Remote,Senior (5+ yrs),Full-time,"Power BI, NumPy, Python, Machine Learning, Tableau",17.6,2024-07-24,2024-07
+743,Junior Data Analyst,Google India,Delhi,Remote,Junior (1-3 yrs),Contract,"SQL, Excel, Git",6.5,2024-11-09,2024-11
+744,Junior Data Analyst,Swiggy,Pune,On-site,Fresher (0-1 yr),Full-time,"Python, Excel, Git, Tableau, Pandas",3.9,2024-10-13,2024-10
+745,Data Analyst,Accenture,Gurgaon,Remote,Mid (3-5 yrs),Full-time,"Power BI, Tableau, Git",10.7,2024-07-25,2024-07
+746,Data Scientist,TCS,Mumbai,On-site,Junior (1-3 yrs),Internship,"Git, SQL",4.4,2024-02-04,2024-02
+747,Junior Data Analyst,Flipkart,Mumbai,On-site,Fresher (0-1 yr),Full-time,"Pandas, Power BI, NumPy, Python, Machine Learning",4.5,2024-08-21,2024-08
+748,Senior Data Analyst,IBM India,Noida,Hybrid,Mid (3-5 yrs),Internship,"Excel, Git, Tableau, Python, SQL",11.6,2024-01-04,2024-01
+749,SQL Developer,Zomato,Gurgaon,Remote,Fresher (0-1 yr),Full-time,"SQL, Power BI, Python, Tableau",2.6,2024-03-07,2024-03
+750,SQL Developer,HCL Technologies,Pune,On-site,Mid (3-5 yrs),Full-time,"SQL, Excel, Tableau",8.9,2024-02-12,2024-02
+751,Data Scientist,HDFC Bank,Gurgaon,Hybrid,Senior (5+ yrs),Full-time,"Excel, Power BI, Tableau, Machine Learning",13.3,2024-10-10,2024-10
+752,Junior Data Analyst,IBM India,Gurgaon,Hybrid,Senior (5+ yrs),Contract,"Pandas, SQL, NumPy, Power BI",14.6,2024-11-27,2024-11
+753,Senior Data Analyst,HDFC Bank,Chennai,On-site,Mid (3-5 yrs),Internship,"Tableau, Machine Learning, Pandas, Power BI, Python",7.8,2024-07-26,2024-07
+754,Junior Data Analyst,Zomato,Pune,On-site,Junior (1-3 yrs),Internship,"Pandas, Excel, Git, Python",4.0,2024-12-11,2024-12
+755,Business Analyst,HDFC Bank,Delhi,On-site,Fresher (0-1 yr),Contract,"Git, Power BI, Machine Learning, Python",3.9,2024-11-03,2024-11
+756,BI Analyst,Microsoft India,Delhi,Hybrid,Junior (1-3 yrs),Full-time,"Statistics, Git",4.2,2024-02-04,2024-02
+757,Python Developer,Cognizant,Delhi,Remote,Senior (5+ yrs),Full-time,"Tableau, Python",20.4,2024-01-15,2024-01
+758,Data Scientist,Accenture,Noida,On-site,Fresher (0-1 yr),Contract,"SQL, Statistics",2.7,2024-12-10,2024-12
+759,Data Scientist,Swiggy,Delhi,Hybrid,Fresher (0-1 yr),Internship,"Statistics, Python, NumPy, Excel",4.2,2024-11-04,2024-11
+760,SQL Developer,HCL Technologies,Bangalore,On-site,Fresher (0-1 yr),Full-time,"SQL, Pandas, NumPy",3.1,2024-12-26,2024-12
+761,SQL Developer,Infosys,Bangalore,Hybrid,Fresher (0-1 yr),Full-time,"Tableau, SQL",3.2,2024-07-09,2024-07
+762,Junior Data Analyst,Accenture,Gurgaon,On-site,Junior (1-3 yrs),Contract,"Git, NumPy, Statistics",6.7,2024-04-19,2024-04
+763,Python Developer,ICICI Bank,Mumbai,Hybrid,Senior (5+ yrs),Full-time,"Tableau, Git",21.2,2024-04-22,2024-04
+764,Business Analyst,Wipro,Hyderabad,Hybrid,Fresher (0-1 yr),Full-time,"Power BI, Statistics",4.5,2024-02-11,2024-02
+765,Business Analyst,Swiggy,Mumbai,Remote,Senior (5+ yrs),Internship,"Machine Learning, SQL, Excel",14.8,2024-08-28,2024-08
+766,Business Analyst,Google India,Pune,On-site,Mid (3-5 yrs),Contract,"Tableau, SQL, Excel",10.2,2024-02-08,2024-02
+767,Data Analyst,HDFC Bank,Chennai,Hybrid,Fresher (0-1 yr),Contract,"Pandas, Tableau, SQL, Machine Learning, Python",3.4,2024-07-17,2024-07
+768,BI Analyst,Swiggy,Bangalore,Hybrid,Mid (3-5 yrs),Contract,"Python, NumPy",12.1,2024-05-07,2024-05
+769,BI Analyst,Cognizant,Mumbai,Remote,Senior (5+ yrs),Internship,"SQL, Python, Power BI, Machine Learning, Git",13.5,2024-10-09,2024-10
+770,Business Analyst,Wipro,Hyderabad,Hybrid,Junior (1-3 yrs),Internship,"NumPy, Git, SQL, Statistics, Pandas",7.3,2024-08-07,2024-08
+771,Junior Data Analyst,IBM India,Delhi,Remote,Mid (3-5 yrs),Internship,"Python, SQL, Excel, Tableau",13.4,2024-12-10,2024-12
+772,Business Analyst,Cognizant,Delhi,Remote,Fresher (0-1 yr),Full-time,"Pandas, Statistics, Excel",4.9,2024-07-11,2024-07
+773,Data Analyst,Cognizant,Mumbai,On-site,Junior (1-3 yrs),Internship,"Git, Pandas",7.9,2024-08-28,2024-08
+774,Business Analyst,ICICI Bank,Hyderabad,On-site,Fresher (0-1 yr),Internship,"Power BI, Machine Learning, Excel, NumPy",2.9,2024-05-26,2024-05
+775,SQL Developer,HDFC Bank,Gurgaon,Remote,Mid (3-5 yrs),Internship,"Statistics, Tableau, Pandas, Power BI",7.1,2024-12-11,2024-12
+776,Python Developer,HCL Technologies,Mumbai,Remote,Fresher (0-1 yr),Full-time,"Power BI, Excel, Pandas, Git, Python",3.1,2024-07-12,2024-07
+777,Business Analyst,Wipro,Pune,Hybrid,Fresher (0-1 yr),Contract,"Machine Learning, Excel, Tableau, Pandas, Git",4.7,2024-07-09,2024-07
+778,Data Scientist,IBM India,Bangalore,Remote,Mid (3-5 yrs),Internship,"NumPy, Statistics",11.0,2024-06-10,2024-06
+779,Senior Data Analyst,Infosys,Gurgaon,Remote,Junior (1-3 yrs),Contract,"Machine Learning, Tableau, Excel",5.2,2024-05-01,2024-05
+780,Python Developer,TCS,Pune,Hybrid,Fresher (0-1 yr),Full-time,"Tableau, Python, NumPy, Excel, Pandas",3.7,2024-03-12,2024-03
+781,Data Scientist,Accenture,Hyderabad,Remote,Mid (3-5 yrs),Full-time,"NumPy, SQL, Tableau",8.5,2024-06-08,2024-06
+782,BI Analyst,Microsoft India,Noida,On-site,Mid (3-5 yrs),Contract,"Excel, NumPy, Pandas, Machine Learning",11.0,2024-04-09,2024-04
+783,Junior Data Analyst,Microsoft India,Pune,Hybrid,Mid (3-5 yrs),Full-time,"Git, Statistics, Excel, Power BI",12.5,2024-02-05,2024-02
+784,Python Developer,Swiggy,Delhi,Hybrid,Mid (3-5 yrs),Contract,"NumPy, Git, Statistics, Python, Tableau",7.2,2024-02-25,2024-02
+785,Junior Data Analyst,Flipkart,Pune,Remote,Mid (3-5 yrs),Full-time,"Python, NumPy, Excel, Power BI",11.7,2024-09-15,2024-09
+786,Data Analyst,Wipro,Bangalore,Hybrid,Fresher (0-1 yr),Contract,"Tableau, Statistics",4.2,2024-02-24,2024-02
+787,Data Analyst,IBM India,Chennai,Remote,Senior (5+ yrs),Full-time,"Excel, Tableau, Machine Learning",21.3,2024-08-20,2024-08
+788,Business Analyst,HCL Technologies,Hyderabad,On-site,Junior (1-3 yrs),Internship,"Machine Learning, SQL",5.0,2024-01-27,2024-01
+789,Python Developer,Google India,Bangalore,On-site,Mid (3-5 yrs),Contract,"Excel, Power BI, Tableau, NumPy, Statistics",11.8,2024-10-04,2024-10
+790,BI Analyst,Accenture,Bangalore,On-site,Junior (1-3 yrs),Internship,"Excel, Machine Learning, Power BI",5.9,2024-11-04,2024-11
+791,Python Developer,Zomato,Mumbai,Hybrid,Senior (5+ yrs),Internship,"Statistics, NumPy",22.6,2024-05-15,2024-05
+792,Senior Data Analyst,Google India,Bangalore,Remote,Mid (3-5 yrs),Full-time,"Python, Pandas, Excel, Power BI, Machine Learning",10.3,2024-03-12,2024-03
+793,Business Analyst,Zomato,Noida,Remote,Fresher (0-1 yr),Full-time,"Pandas, Git, Statistics",4.3,2024-05-26,2024-05
+794,Data Scientist,Google India,Hyderabad,Remote,Senior (5+ yrs),Contract,"Git, Excel, Tableau, SQL, Pandas",16.2,2024-06-19,2024-06
+795,BI Analyst,Wipro,Bangalore,On-site,Junior (1-3 yrs),Full-time,"SQL, Statistics",7.7,2024-04-25,2024-04
+796,Business Analyst,HCL Technologies,Chennai,Remote,Senior (5+ yrs),Contract,"Python, Tableau",13.5,2024-02-15,2024-02
+797,SQL Developer,Infosys,Chennai,Hybrid,Fresher (0-1 yr),Internship,"NumPy, Excel, Power BI, SQL, Machine Learning",3.7,2024-04-07,2024-04
+798,Junior Data Analyst,Microsoft India,Pune,On-site,Fresher (0-1 yr),Internship,"Power BI, Python",4.5,2024-06-25,2024-06
+799,BI Analyst,Wipro,Delhi,On-site,Senior (5+ yrs),Full-time,"Git, Statistics, Pandas",16.6,2024-03-26,2024-03
+800,Senior Data Analyst,HDFC Bank,Noida,Remote,Senior (5+ yrs),Full-time,"Excel, Machine Learning",15.9,2024-04-02,2024-04
+801,SQL Developer,Infosys,Pune,Hybrid,Mid (3-5 yrs),Contract,"SQL, Excel, Tableau, Python",10.7,2024-09-20,2024-09
+802,Data Scientist,Google India,Bangalore,Remote,Fresher (0-1 yr),Internship,"Tableau, Python, Machine Learning, Excel, Power BI",3.2,2024-01-05,2024-01
+803,Business Analyst,Swiggy,Bangalore,On-site,Senior (5+ yrs),Full-time,"Pandas, SQL",24.3,2024-10-03,2024-10
+804,Python Developer,Accenture,Mumbai,Remote,Fresher (0-1 yr),Full-time,"Statistics, Machine Learning",3.1,2024-08-10,2024-08
+805,Business Analyst,Infosys,Bangalore,On-site,Junior (1-3 yrs),Internship,"Python, Machine Learning, Statistics, Git, Power BI",7.1,2024-07-23,2024-07
+806,BI Analyst,Accenture,Hyderabad,Hybrid,Fresher (0-1 yr),Internship,"Pandas, Power BI, Git, Machine Learning",4.8,2024-02-19,2024-02
+807,Data Analyst,Capgemini,Noida,Remote,Fresher (0-1 yr),Full-time,"Python, SQL, Git",2.8,2024-01-11,2024-01
+808,SQL Developer,Capgemini,Mumbai,On-site,Senior (5+ yrs),Contract,"SQL, Git",15.3,2024-08-23,2024-08
+809,SQL Developer,Capgemini,Gurgaon,Remote,Mid (3-5 yrs),Contract,"Power BI, Machine Learning, Tableau, Excel",11.9,2024-01-12,2024-01
+810,BI Analyst,ICICI Bank,Mumbai,On-site,Junior (1-3 yrs),Full-time,"Tableau, Machine Learning, Power BI",4.5,2024-03-02,2024-03
+811,Business Analyst,HDFC Bank,Gurgaon,On-site,Fresher (0-1 yr),Contract,"Tableau, Git",4.0,2024-02-02,2024-02
+812,Data Scientist,Google India,Gurgaon,On-site,Senior (5+ yrs),Contract,"Python, Power BI, Machine Learning, Statistics, SQL",20.6,2024-11-10,2024-11
+813,Data Analyst,Zomato,Bangalore,Remote,Mid (3-5 yrs),Contract,"Python, Pandas, NumPy",13.1,2024-12-25,2024-12
+814,Data Analyst,HCL Technologies,Noida,Remote,Mid (3-5 yrs),Internship,"NumPy, Machine Learning, Tableau, SQL, Power BI",10.3,2024-04-05,2024-04
+815,Data Analyst,Amazon India,Mumbai,On-site,Junior (1-3 yrs),Internship,"Pandas, NumPy, Python, Tableau",5.1,2024-05-26,2024-05
+816,Data Analyst,HCL Technologies,Mumbai,Remote,Mid (3-5 yrs),Contract,"Statistics, Git, Python",10.1,2024-06-16,2024-06
+817,Business Analyst,Microsoft India,Bangalore,Remote,Fresher (0-1 yr),Contract,"SQL, Statistics, Excel, Machine Learning",4.4,2024-08-05,2024-08
+818,Business Analyst,Cognizant,Chennai,Remote,Fresher (0-1 yr),Full-time,"Python, Excel",4.2,2024-10-11,2024-10
+819,Data Analyst,Capgemini,Bangalore,Remote,Mid (3-5 yrs),Contract,"Pandas, Machine Learning",12.0,2024-06-04,2024-06
+820,Senior Data Analyst,HDFC Bank,Hyderabad,Remote,Fresher (0-1 yr),Full-time,"Pandas, Git, NumPy",2.7,2024-05-05,2024-05
+821,Data Analyst,Swiggy,Delhi,Hybrid,Senior (5+ yrs),Internship,"Statistics, Tableau, Python, SQL",16.8,2024-03-19,2024-03
+822,Data Analyst,HCL Technologies,Pune,Hybrid,Mid (3-5 yrs),Full-time,"Git, Python, Excel, Power BI, Pandas",7.5,2024-04-19,2024-04
+823,BI Analyst,HCL Technologies,Bangalore,Remote,Senior (5+ yrs),Internship,"Pandas, Tableau, Power BI, NumPy, Machine Learning",15.8,2024-04-26,2024-04
+824,SQL Developer,Capgemini,Gurgaon,Hybrid,Fresher (0-1 yr),Internship,"Statistics, NumPy, Pandas",2.7,2024-02-12,2024-02
+825,Python Developer,Capgemini,Gurgaon,Hybrid,Junior (1-3 yrs),Internship,"Machine Learning, Power BI, NumPy",6.7,2024-10-09,2024-10
+826,Data Scientist,Swiggy,Delhi,On-site,Fresher (0-1 yr),Contract,"Machine Learning, Excel, Statistics, Pandas, SQL",4.7,2024-01-06,2024-01
+827,Senior Data Analyst,Microsoft India,Mumbai,Remote,Senior (5+ yrs),Internship,"Excel, Python",18.3,2024-03-03,2024-03
+828,Junior Data Analyst,Google India,Noida,Hybrid,Junior (1-3 yrs),Contract,"Tableau, SQL, Pandas",7.6,2024-10-20,2024-10
+829,Senior Data Analyst,TCS,Hyderabad,Remote,Mid (3-5 yrs),Contract,"Statistics, NumPy, Tableau, Machine Learning, Power BI",11.9,2024-12-25,2024-12
+830,Senior Data Analyst,Accenture,Bangalore,Remote,Mid (3-5 yrs),Internship,"NumPy, Pandas, Statistics, SQL, Tableau",12.1,2024-02-08,2024-02
+831,Data Scientist,ICICI Bank,Delhi,On-site,Senior (5+ yrs),Contract,"NumPy, Pandas, Excel, SQL",12.5,2024-12-07,2024-12
+832,BI Analyst,Amazon India,Delhi,On-site,Mid (3-5 yrs),Contract,"SQL, Tableau, Machine Learning",10.4,2024-03-10,2024-03
+833,Data Scientist,HCL Technologies,Pune,Remote,Mid (3-5 yrs),Full-time,"Power BI, Machine Learning",12.9,2024-01-20,2024-01
+834,Data Analyst,IBM India,Bangalore,Hybrid,Fresher (0-1 yr),Contract,"Tableau, NumPy, Statistics",3.8,2024-05-04,2024-05
+835,Senior Data Analyst,HDFC Bank,Noida,Hybrid,Mid (3-5 yrs),Full-time,"Tableau, SQL, Pandas",12.6,2024-04-24,2024-04
+836,Senior Data Analyst,Swiggy,Chennai,Remote,Mid (3-5 yrs),Contract,"Machine Learning, SQL, Pandas, Python, Power BI",7.7,2024-09-11,2024-09
+837,Business Analyst,TCS,Bangalore,On-site,Junior (1-3 yrs),Internship,"Power BI, Git, Tableau, Machine Learning, SQL",5.9,2024-08-10,2024-08
+838,Junior Data Analyst,IBM India,Hyderabad,Remote,Junior (1-3 yrs),Full-time,"SQL, Statistics, Power BI, Pandas, Git",4.2,2024-10-13,2024-10
+839,Business Analyst,Zomato,Gurgaon,Remote,Junior (1-3 yrs),Contract,"Tableau, Statistics, Machine Learning",7.2,2024-06-18,2024-06
+840,Python Developer,Flipkart,Hyderabad,On-site,Fresher (0-1 yr),Contract,"Statistics, Pandas, Power BI, Machine Learning, Git",2.8,2024-06-22,2024-06
+841,Senior Data Analyst,Zomato,Noida,Remote,Junior (1-3 yrs),Contract,"Git, NumPy, Power BI, Python, Excel",5.1,2024-07-02,2024-07
+842,SQL Developer,Amazon India,Delhi,Hybrid,Senior (5+ yrs),Contract,"NumPy, Tableau, Python, Excel, Power BI",21.5,2024-01-10,2024-01
+843,Python Developer,Microsoft India,Pune,Remote,Junior (1-3 yrs),Internship,"SQL, Pandas, Excel",6.0,2024-12-01,2024-12
+844,BI Analyst,Wipro,Delhi,Hybrid,Fresher (0-1 yr),Internship,"Machine Learning, Power BI",3.4,2024-03-27,2024-03
+845,BI Analyst,Capgemini,Mumbai,On-site,Mid (3-5 yrs),Contract,"Power BI, Machine Learning, Git, Python, NumPy",12.9,2024-09-04,2024-09
+846,BI Analyst,ICICI Bank,Bangalore,On-site,Mid (3-5 yrs),Contract,"Power BI, Git",7.2,2024-07-21,2024-07
+847,BI Analyst,Accenture,Mumbai,On-site,Fresher (0-1 yr),Full-time,"Python, Git, Excel, Machine Learning, Pandas",4.0,2024-10-28,2024-10
+848,Data Scientist,Swiggy,Noida,Remote,Fresher (0-1 yr),Contract,"Statistics, Power BI, SQL, Excel",4.9,2024-07-10,2024-07
+849,BI Analyst,Wipro,Pune,Hybrid,Mid (3-5 yrs),Contract,"Machine Learning, Git, Power BI, Statistics",7.1,2024-07-12,2024-07
+850,Senior Data Analyst,HDFC Bank,Pune,Remote,Fresher (0-1 yr),Contract,"Statistics, Pandas, Git",3.9,2024-06-05,2024-06
+851,Senior Data Analyst,HCL Technologies,Chennai,On-site,Senior (5+ yrs),Internship,"SQL, Excel, NumPy",20.0,2024-12-27,2024-12
+852,Business Analyst,TCS,Gurgaon,Hybrid,Senior (5+ yrs),Contract,"Excel, Python, Pandas, Statistics",19.3,2024-01-09,2024-01
+853,Business Analyst,ICICI Bank,Gurgaon,Hybrid,Junior (1-3 yrs),Contract,"Statistics, Machine Learning, SQL, Python, Power BI",6.8,2024-01-06,2024-01
+854,Senior Data Analyst,Cognizant,Pune,Hybrid,Fresher (0-1 yr),Full-time,"Statistics, Excel, Git, SQL, Pandas",4.7,2024-01-10,2024-01
+855,Senior Data Analyst,Microsoft India,Mumbai,Remote,Mid (3-5 yrs),Internship,"Git, Pandas, Excel, SQL",9.0,2024-10-23,2024-10
+856,SQL Developer,Amazon India,Gurgaon,Hybrid,Junior (1-3 yrs),Contract,"Excel, Machine Learning, Statistics",4.0,2024-03-16,2024-03
+857,Senior Data Analyst,Infosys,Mumbai,Remote,Junior (1-3 yrs),Full-time,"Machine Learning, Statistics",5.3,2024-08-20,2024-08
+858,Junior Data Analyst,Wipro,Delhi,Remote,Junior (1-3 yrs),Contract,"Power BI, Tableau",5.1,2024-07-19,2024-07
+859,Data Scientist,Zomato,Noida,Hybrid,Junior (1-3 yrs),Full-time,"SQL, Power BI, Tableau",4.7,2024-03-26,2024-03
+860,BI Analyst,Swiggy,Mumbai,Remote,Senior (5+ yrs),Full-time,"Python, Power BI, Machine Learning",13.2,2024-03-05,2024-03
+861,Junior Data Analyst,ICICI Bank,Bangalore,Hybrid,Fresher (0-1 yr),Full-time,"Machine Learning, Statistics, NumPy",4.2,2024-09-25,2024-09
+862,Senior Data Analyst,Capgemini,Noida,Hybrid,Senior (5+ yrs),Internship,"Pandas, Tableau, Git, Machine Learning, Python",23.5,2024-03-21,2024-03
+863,Data Scientist,Accenture,Noida,Remote,Senior (5+ yrs),Contract,"SQL, Machine Learning, NumPy, Pandas",18.3,2024-06-28,2024-06
+864,Python Developer,Zomato,Noida,On-site,Junior (1-3 yrs),Contract,"Excel, Python, Power BI, Statistics",5.4,2024-10-10,2024-10
+865,SQL Developer,HCL Technologies,Delhi,Hybrid,Fresher (0-1 yr),Internship,"Python, Tableau, Statistics, Power BI",2.6,2024-05-09,2024-05
+866,Data Analyst,Infosys,Gurgaon,Remote,Senior (5+ yrs),Contract,"Statistics, Machine Learning, SQL",18.3,2024-12-05,2024-12
+867,Junior Data Analyst,Accenture,Hyderabad,Hybrid,Fresher (0-1 yr),Full-time,"Python, Pandas, SQL, NumPy, Tableau",3.2,2024-11-20,2024-11
+868,Data Analyst,Swiggy,Delhi,Remote,Junior (1-3 yrs),Internship,"Machine Learning, Python, NumPy, Power BI",7.4,2024-02-07,2024-02
+869,Junior Data Analyst,Amazon India,Hyderabad,On-site,Senior (5+ yrs),Full-time,"Git, Power BI, NumPy, SQL",20.3,2024-01-10,2024-01
+870,Data Scientist,Zomato,Hyderabad,Hybrid,Senior (5+ yrs),Internship,"Git, Statistics",13.1,2024-03-24,2024-03
+871,Senior Data Analyst,Cognizant,Delhi,Remote,Fresher (0-1 yr),Full-time,"Power BI, Pandas",3.7,2024-04-10,2024-04
+872,Business Analyst,Accenture,Mumbai,On-site,Senior (5+ yrs),Internship,"Excel, Tableau, Git, Machine Learning",16.1,2024-04-09,2024-04
+873,Business Analyst,Cognizant,Mumbai,Hybrid,Senior (5+ yrs),Contract,"Statistics, Pandas",19.5,2024-11-17,2024-11
+874,Python Developer,Cognizant,Bangalore,Remote,Senior (5+ yrs),Full-time,"NumPy, Pandas, Tableau",14.7,2024-09-18,2024-09
+875,Data Scientist,Wipro,Pune,Hybrid,Junior (1-3 yrs),Contract,"Python, SQL, Excel, Power BI",4.6,2024-06-19,2024-06
+876,BI Analyst,TCS,Delhi,Remote,Fresher (0-1 yr),Internship,"Python, Excel, NumPy, Power BI",3.3,2024-02-06,2024-02
+877,SQL Developer,Flipkart,Chennai,Hybrid,Junior (1-3 yrs),Full-time,"Git, Statistics, NumPy, Pandas, Power BI",5.9,2024-12-12,2024-12
+878,SQL Developer,ICICI Bank,Noida,Hybrid,Fresher (0-1 yr),Full-time,"NumPy, Git",4.4,2024-07-19,2024-07
+879,Data Analyst,Cognizant,Chennai,Hybrid,Junior (1-3 yrs),Internship,"Excel, Pandas, Python",7.9,2024-03-26,2024-03
+880,SQL Developer,HDFC Bank,Noida,On-site,Senior (5+ yrs),Full-time,"Power BI, Excel, Tableau",16.0,2024-04-14,2024-04
+881,Senior Data Analyst,Capgemini,Chennai,Remote,Mid (3-5 yrs),Full-time,"Excel, Pandas, SQL, Power BI, Tableau",11.8,2024-08-22,2024-08
+882,BI Analyst,HDFC Bank,Pune,On-site,Senior (5+ yrs),Full-time,"Excel, NumPy, Pandas, Git",22.7,2024-07-20,2024-07
+883,BI Analyst,Wipro,Delhi,Hybrid,Fresher (0-1 yr),Full-time,"Power BI, Pandas, Machine Learning",3.3,2024-10-20,2024-10
+884,BI Analyst,Wipro,Pune,On-site,Senior (5+ yrs),Full-time,"Power BI, Tableau",17.7,2024-11-06,2024-11
+885,BI Analyst,Accenture,Mumbai,Hybrid,Senior (5+ yrs),Internship,"Python, Tableau, NumPy, SQL, Statistics",17.2,2024-02-15,2024-02
+886,Senior Data Analyst,Zomato,Hyderabad,Remote,Senior (5+ yrs),Full-time,"Pandas, Excel, NumPy",18.3,2024-11-22,2024-11
+887,BI Analyst,Microsoft India,Bangalore,Hybrid,Senior (5+ yrs),Contract,"Git, Statistics",18.5,2024-12-11,2024-12
+888,SQL Developer,HCL Technologies,Chennai,Hybrid,Senior (5+ yrs),Internship,"Excel, Python",16.4,2024-10-09,2024-10
+889,Business Analyst,HDFC Bank,Noida,On-site,Senior (5+ yrs),Contract,"SQL, Statistics",18.0,2024-10-22,2024-10
+890,SQL Developer,Amazon India,Noida,Hybrid,Mid (3-5 yrs),Full-time,"Excel, Tableau, Pandas, Power BI",7.1,2024-11-02,2024-11
+891,Senior Data Analyst,Zomato,Bangalore,Remote,Senior (5+ yrs),Full-time,"SQL, Machine Learning, Git",13.6,2024-08-14,2024-08
+892,Data Scientist,Zomato,Gurgaon,Remote,Junior (1-3 yrs),Internship,"Python, SQL, Pandas, Excel, Git",4.6,2024-11-26,2024-11
+893,Senior Data Analyst,Google India,Hyderabad,Hybrid,Mid (3-5 yrs),Contract,"Python, Excel, Tableau, Pandas, NumPy",12.2,2024-07-04,2024-07
+894,Business Analyst,Amazon India,Mumbai,Remote,Junior (1-3 yrs),Internship,"Pandas, Statistics",4.9,2024-05-24,2024-05
+895,Junior Data Analyst,Amazon India,Bangalore,Remote,Senior (5+ yrs),Full-time,"Tableau, Python, NumPy, SQL",12.2,2024-03-09,2024-03
+896,Data Scientist,HDFC Bank,Delhi,On-site,Junior (1-3 yrs),Full-time,"Pandas, Power BI",4.3,2024-12-20,2024-12
+897,Python Developer,Microsoft India,Delhi,Remote,Senior (5+ yrs),Contract,"Pandas, Git",16.2,2024-03-15,2024-03
+898,Python Developer,IBM India,Chennai,Remote,Senior (5+ yrs),Contract,"Python, SQL, Statistics, Tableau, Excel",13.1,2024-09-12,2024-09
+899,Data Scientist,Flipkart,Delhi,Hybrid,Senior (5+ yrs),Full-time,"Git, Excel, Pandas",19.3,2024-01-25,2024-01
+900,Data Scientist,ICICI Bank,Pune,Hybrid,Junior (1-3 yrs),Contract,"SQL, NumPy",4.9,2024-10-10,2024-10
+901,Junior Data Analyst,Cognizant,Noida,Remote,Senior (5+ yrs),Contract,"NumPy, Tableau, Pandas",22.0,2024-11-22,2024-11
+902,SQL Developer,Google India,Pune,Hybrid,Senior (5+ yrs),Contract,"Statistics, Excel, Machine Learning, Power BI",15.7,2024-06-25,2024-06
+903,Python Developer,Cognizant,Hyderabad,Hybrid,Senior (5+ yrs),Contract,"Power BI, Python, Git, SQL, Tableau",20.1,2024-10-19,2024-10
+904,BI Analyst,Infosys,Delhi,Remote,Junior (1-3 yrs),Full-time,"SQL, Pandas, Python, Machine Learning, Tableau",7.5,2024-09-17,2024-09
+905,Business Analyst,Cognizant,Gurgaon,Hybrid,Junior (1-3 yrs),Full-time,"Power BI, Pandas, Excel, Statistics, Python",7.6,2024-08-15,2024-08
+906,Business Analyst,HDFC Bank,Pune,On-site,Senior (5+ yrs),Internship,"Git, Pandas",23.3,2024-04-15,2024-04
+907,Senior Data Analyst,Infosys,Bangalore,Remote,Senior (5+ yrs),Internship,"NumPy, SQL, Git, Excel, Pandas",19.0,2024-10-21,2024-10
+908,Data Analyst,HDFC Bank,Gurgaon,Remote,Fresher (0-1 yr),Contract,"Python, Pandas, NumPy, Machine Learning, Tableau",4.1,2024-02-04,2024-02
+909,Junior Data Analyst,Amazon India,Hyderabad,Remote,Junior (1-3 yrs),Contract,"Pandas, Excel, Power BI, NumPy, Statistics",4.8,2024-11-23,2024-11
+910,Senior Data Analyst,HDFC Bank,Gurgaon,On-site,Mid (3-5 yrs),Contract,"Statistics, Pandas, Git, Machine Learning",8.8,2024-01-25,2024-01
+911,Junior Data Analyst,Accenture,Mumbai,On-site,Junior (1-3 yrs),Contract,"Tableau, Git, Excel, Machine Learning",6.5,2024-08-22,2024-08
+912,Data Scientist,Accenture,Chennai,On-site,Mid (3-5 yrs),Contract,"Power BI, Python, Git, Tableau",9.1,2024-05-12,2024-05
+913,BI Analyst,ICICI Bank,Chennai,Hybrid,Junior (1-3 yrs),Internship,"Machine Learning, Pandas, NumPy, Statistics",7.7,2024-09-16,2024-09
+914,Junior Data Analyst,ICICI Bank,Noida,On-site,Fresher (0-1 yr),Contract,"Tableau, Power BI, Machine Learning",2.9,2024-12-26,2024-12
+915,Senior Data Analyst,IBM India,Delhi,Hybrid,Senior (5+ yrs),Internship,"Machine Learning, Power BI",21.6,2024-01-13,2024-01
+916,Senior Data Analyst,Swiggy,Hyderabad,Hybrid,Fresher (0-1 yr),Full-time,"Git, Machine Learning, Power BI, SQL, Excel",4.5,2024-11-28,2024-11
+917,Business Analyst,Capgemini,Gurgaon,On-site,Fresher (0-1 yr),Internship,"Machine Learning, Tableau, SQL, Pandas",3.0,2024-02-05,2024-02
+918,Data Scientist,TCS,Pune,On-site,Junior (1-3 yrs),Internship,"Statistics, SQL, Python, Excel, Pandas",4.3,2024-08-03,2024-08
+919,Python Developer,IBM India,Hyderabad,Remote,Junior (1-3 yrs),Internship,"Tableau, Python, NumPy, Statistics, Machine Learning",6.9,2024-11-07,2024-11
+920,Python Developer,Infosys,Mumbai,Hybrid,Mid (3-5 yrs),Contract,"Pandas, Machine Learning, Statistics",10.6,2024-05-09,2024-05
+921,Business Analyst,Swiggy,Mumbai,Remote,Mid (3-5 yrs),Internship,"SQL, Excel, Statistics, Python, Machine Learning",13.3,2024-08-06,2024-08
+922,Junior Data Analyst,Wipro,Noida,Remote,Mid (3-5 yrs),Full-time,"Pandas, Machine Learning, Excel, SQL, Python",12.3,2024-09-10,2024-09
+923,SQL Developer,ICICI Bank,Hyderabad,Remote,Mid (3-5 yrs),Internship,"Git, Excel, Pandas",8.1,2024-03-28,2024-03
+924,Junior Data Analyst,Cognizant,Delhi,Remote,Senior (5+ yrs),Internship,"Tableau, Power BI, Git, Machine Learning, Excel",16.8,2024-12-12,2024-12
+925,SQL Developer,HDFC Bank,Mumbai,Hybrid,Senior (5+ yrs),Contract,"NumPy, Python",24.6,2024-03-15,2024-03
+926,Data Scientist,Infosys,Pune,On-site,Mid (3-5 yrs),Contract,"Python, Pandas, NumPy, Statistics",9.7,2024-12-07,2024-12
+927,Business Analyst,HDFC Bank,Mumbai,On-site,Fresher (0-1 yr),Full-time,"Pandas, Statistics, Machine Learning",4.9,2024-11-13,2024-11
+928,Python Developer,Capgemini,Mumbai,Remote,Senior (5+ yrs),Full-time,"Python, Pandas",15.6,2024-05-04,2024-05
+929,Python Developer,Accenture,Hyderabad,Hybrid,Senior (5+ yrs),Full-time,"Git, Tableau, Power BI",19.3,2024-06-19,2024-06
+930,Data Scientist,Flipkart,Bangalore,On-site,Fresher (0-1 yr),Internship,"Pandas, Statistics, Power BI, SQL",3.3,2024-06-11,2024-06
+931,Business Analyst,Amazon India,Mumbai,Remote,Fresher (0-1 yr),Full-time,"NumPy, Git",3.5,2024-01-27,2024-01
+932,Data Analyst,Zomato,Bangalore,Remote,Senior (5+ yrs),Full-time,"Machine Learning, Statistics, Tableau, Git",16.3,2024-02-19,2024-02
+933,Senior Data Analyst,HCL Technologies,Chennai,Remote,Fresher (0-1 yr),Internship,"Git, Power BI, SQL, NumPy, Pandas",3.6,2024-08-24,2024-08
+934,Junior Data Analyst,Swiggy,Hyderabad,On-site,Mid (3-5 yrs),Contract,"Python, NumPy, Tableau, Git, Statistics",10.3,2024-04-11,2024-04
+935,BI Analyst,Accenture,Mumbai,On-site,Mid (3-5 yrs),Internship,"Power BI, Pandas, Excel, SQL, NumPy",8.4,2024-01-18,2024-01
+936,Data Analyst,Accenture,Delhi,On-site,Mid (3-5 yrs),Contract,"Power BI, Git, Tableau",8.1,2024-04-07,2024-04
+937,SQL Developer,Infosys,Chennai,Hybrid,Fresher (0-1 yr),Contract,"Statistics, Power BI",3.5,2024-07-07,2024-07
+938,Business Analyst,Google India,Hyderabad,On-site,Junior (1-3 yrs),Internship,"Excel, Power BI",4.5,2024-10-12,2024-10
+939,SQL Developer,Microsoft India,Pune,On-site,Fresher (0-1 yr),Internship,"Statistics, Tableau, SQL, Power BI",2.5,2024-07-13,2024-07
+940,Senior Data Analyst,Zomato,Delhi,Hybrid,Fresher (0-1 yr),Contract,"Power BI, SQL, NumPy, Git",2.5,2024-12-21,2024-12
+941,SQL Developer,TCS,Chennai,On-site,Junior (1-3 yrs),Internship,"Excel, Machine Learning",4.6,2024-01-02,2024-01
+942,Business Analyst,Flipkart,Delhi,Remote,Senior (5+ yrs),Full-time,"Excel, Git, Machine Learning, Pandas, NumPy",14.4,2024-02-26,2024-02
+943,Junior Data Analyst,Infosys,Gurgaon,On-site,Mid (3-5 yrs),Contract,"Tableau, Pandas, Python, NumPy",10.3,2024-08-02,2024-08
+944,Junior Data Analyst,Microsoft India,Bangalore,Remote,Senior (5+ yrs),Internship,"Excel, SQL, Python",16.5,2024-07-03,2024-07
+945,Senior Data Analyst,ICICI Bank,Gurgaon,Hybrid,Senior (5+ yrs),Full-time,"Tableau, Statistics",18.1,2024-03-11,2024-03
+946,SQL Developer,HCL Technologies,Gurgaon,Hybrid,Junior (1-3 yrs),Full-time,"Machine Learning, Excel, Git",4.9,2024-02-23,2024-02
+947,BI Analyst,Flipkart,Hyderabad,On-site,Junior (1-3 yrs),Contract,"Tableau, Pandas, Statistics",6.7,2024-10-09,2024-10
+948,Junior Data Analyst,Swiggy,Noida,Hybrid,Junior (1-3 yrs),Internship,"NumPy, Python",7.2,2024-01-05,2024-01
+949,Data Analyst,Capgemini,Chennai,Hybrid,Mid (3-5 yrs),Full-time,"Statistics, Pandas, Power BI, Machine Learning, Tableau",9.8,2024-08-20,2024-08
+950,Data Scientist,HDFC Bank,Hyderabad,Remote,Mid (3-5 yrs),Internship,"Pandas, Excel, Tableau, Machine Learning",12.6,2024-09-15,2024-09
+951,Senior Data Analyst,Swiggy,Mumbai,On-site,Mid (3-5 yrs),Contract,"Machine Learning, Excel",7.7,2024-02-04,2024-02
+952,Data Scientist,Accenture,Delhi,Hybrid,Senior (5+ yrs),Contract,"Machine Learning, Excel",17.2,2024-09-07,2024-09
+953,Junior Data Analyst,Capgemini,Bangalore,On-site,Mid (3-5 yrs),Internship,"Git, Machine Learning, Python",12.6,2024-04-23,2024-04
+954,Junior Data Analyst,Zomato,Chennai,On-site,Junior (1-3 yrs),Internship,"Excel, Machine Learning, NumPy",7.4,2024-07-10,2024-07
+955,BI Analyst,Microsoft India,Gurgaon,Hybrid,Mid (3-5 yrs),Full-time,"Python, SQL, Tableau, Pandas",10.9,2024-12-20,2024-12
+956,Senior Data Analyst,TCS,Noida,On-site,Junior (1-3 yrs),Contract,"Power BI, NumPy, Excel",6.6,2024-04-08,2024-04
+957,SQL Developer,Wipro,Pune,Hybrid,Junior (1-3 yrs),Contract,"Git, Excel",4.8,2024-05-25,2024-05
+958,SQL Developer,Infosys,Hyderabad,Remote,Mid (3-5 yrs),Internship,"Git, Statistics",8.6,2024-02-18,2024-02
+959,Python Developer,Accenture,Hyderabad,Remote,Mid (3-5 yrs),Contract,"NumPy, Tableau",7.8,2024-10-06,2024-10
+960,Python Developer,Flipkart,Pune,Remote,Fresher (0-1 yr),Full-time,"Power BI, Statistics, NumPy, Git",2.6,2024-05-27,2024-05
+961,Data Scientist,Amazon India,Delhi,Hybrid,Mid (3-5 yrs),Contract,"Python, SQL",12.0,2024-10-16,2024-10
+962,Business Analyst,Microsoft India,Mumbai,On-site,Senior (5+ yrs),Internship,"Git, Machine Learning, NumPy, Python, Tableau",13.4,2024-11-04,2024-11
+963,Senior Data Analyst,HCL Technologies,Pune,Hybrid,Senior (5+ yrs),Contract,"Pandas, Statistics",23.1,2024-09-02,2024-09
+964,BI Analyst,Microsoft India,Bangalore,On-site,Junior (1-3 yrs),Full-time,"SQL, Tableau, NumPy, Statistics",4.1,2024-05-12,2024-05
+965,SQL Developer,Zomato,Pune,Hybrid,Senior (5+ yrs),Full-time,"Statistics, Tableau, Excel, SQL",19.3,2024-11-11,2024-11
+966,BI Analyst,Zomato,Chennai,Hybrid,Fresher (0-1 yr),Contract,"Git, Machine Learning, Power BI, Excel",4.6,2024-12-03,2024-12
+967,BI Analyst,Swiggy,Gurgaon,Remote,Junior (1-3 yrs),Contract,"Tableau, Statistics, Pandas",5.3,2024-06-25,2024-06
+968,Junior Data Analyst,Cognizant,Delhi,On-site,Fresher (0-1 yr),Full-time,"Machine Learning, Git, Tableau, NumPy",3.9,2024-10-23,2024-10
+969,Senior Data Analyst,IBM India,Hyderabad,On-site,Senior (5+ yrs),Contract,"Pandas, Machine Learning, Git",17.2,2024-02-28,2024-02
+970,Data Scientist,Wipro,Delhi,On-site,Senior (5+ yrs),Full-time,"Machine Learning, Excel, Tableau",12.3,2024-12-08,2024-12
+971,Business Analyst,Capgemini,Gurgaon,Remote,Junior (1-3 yrs),Full-time,"Tableau, Power BI",7.9,2024-08-27,2024-08
+972,Python Developer,Microsoft India,Pune,Hybrid,Junior (1-3 yrs),Internship,"Git, NumPy, Tableau, Pandas, Excel",7.2,2024-06-12,2024-06
+973,Business Analyst,Swiggy,Delhi,On-site,Junior (1-3 yrs),Contract,"Machine Learning, Excel, SQL",7.9,2024-09-23,2024-09
+974,Python Developer,Swiggy,Hyderabad,Remote,Junior (1-3 yrs),Internship,"Machine Learning, Power BI, Statistics, Excel",6.3,2024-10-15,2024-10
+975,Python Developer,Microsoft India,Hyderabad,On-site,Fresher (0-1 yr),Internship,"Machine Learning, Python, Pandas, Power BI, Statistics",2.9,2024-02-24,2024-02
+976,Data Scientist,Amazon India,Bangalore,Remote,Senior (5+ yrs),Contract,"NumPy, Power BI, Statistics",16.0,2024-05-11,2024-05
+977,Business Analyst,Microsoft India,Chennai,Remote,Mid (3-5 yrs),Full-time,"Pandas, SQL",12.4,2024-02-17,2024-02
+978,BI Analyst,Cognizant,Pune,On-site,Junior (1-3 yrs),Full-time,"Statistics, SQL",5.3,2024-07-19,2024-07
+979,BI Analyst,Microsoft India,Noida,Remote,Senior (5+ yrs),Full-time,"Excel, SQL, Tableau, Git",14.3,2024-05-16,2024-05
+980,Senior Data Analyst,Cognizant,Mumbai,Hybrid,Junior (1-3 yrs),Full-time,"SQL, Pandas, Statistics, NumPy",4.4,2024-10-02,2024-10
+981,Data Analyst,Zomato,Hyderabad,On-site,Fresher (0-1 yr),Internship,"Python, Pandas",3.7,2024-10-19,2024-10
+982,SQL Developer,Wipro,Chennai,On-site,Senior (5+ yrs),Full-time,"Pandas, SQL, Excel",19.8,2024-08-23,2024-08
+983,Junior Data Analyst,Accenture,Gurgaon,On-site,Fresher (0-1 yr),Internship,"Tableau, Git",2.8,2024-10-17,2024-10
+984,Junior Data Analyst,HCL Technologies,Gurgaon,On-site,Junior (1-3 yrs),Internship,"Statistics, Machine Learning, NumPy, Git",5.8,2024-09-03,2024-09
+985,SQL Developer,Capgemini,Delhi,On-site,Junior (1-3 yrs),Contract,"NumPy, Python, Pandas",4.2,2024-08-26,2024-08
+986,Senior Data Analyst,Wipro,Delhi,Remote,Senior (5+ yrs),Internship,"Tableau, Pandas, Excel",17.8,2024-11-14,2024-11
+987,BI Analyst,Microsoft India,Noida,On-site,Senior (5+ yrs),Full-time,"SQL, Pandas, Statistics, Tableau, Power BI",16.0,2024-05-25,2024-05
+988,Data Analyst,TCS,Pune,On-site,Mid (3-5 yrs),Internship,"Pandas, Python, Machine Learning",7.3,2024-04-12,2024-04
+989,Data Analyst,Microsoft India,Chennai,Remote,Mid (3-5 yrs),Internship,"Power BI, SQL",10.2,2024-04-23,2024-04
+990,SQL Developer,Wipro,Pune,Hybrid,Junior (1-3 yrs),Internship,"Python, NumPy",4.8,2024-05-01,2024-05
+991,Business Analyst,Swiggy,Chennai,Hybrid,Junior (1-3 yrs),Contract,"Python, Excel, Machine Learning, Tableau, SQL",6.5,2024-07-22,2024-07
+992,Data Scientist,IBM India,Mumbai,Hybrid,Fresher (0-1 yr),Contract,"NumPy, Tableau, Power BI, Git, Statistics",3.7,2024-12-13,2024-12
+993,Data Analyst,HDFC Bank,Chennai,Remote,Junior (1-3 yrs),Full-time,"SQL, Excel",7.6,2024-03-18,2024-03
+994,SQL Developer,Cognizant,Mumbai,Remote,Senior (5+ yrs),Contract,"Tableau, Git, SQL, NumPy",13.6,2024-04-03,2024-04
+995,Python Developer,IBM India,Chennai,Remote,Fresher (0-1 yr),Contract,"SQL, Git, Power BI, Python, Statistics",3.0,2024-02-08,2024-02
+996,BI Analyst,Zomato,Gurgaon,Remote,Junior (1-3 yrs),Contract,"Machine Learning, Power BI",7.1,2024-01-19,2024-01
+997,Data Analyst,Accenture,Delhi,Hybrid,Junior (1-3 yrs),Contract,"Power BI, Python, NumPy, Git, SQL",7.8,2024-04-06,2024-04
+998,Business Analyst,Swiggy,Gurgaon,On-site,Senior (5+ yrs),Full-time,"Git, Machine Learning, Tableau",19.2,2024-06-02,2024-06
+999,Senior Data Analyst,Wipro,Noida,Remote,Fresher (0-1 yr),Internship,"Pandas, Git, Python",2.9,2024-04-01,2024-04
+1000,BI Analyst,Infosys,Bangalore,Hybrid,Fresher (0-1 yr),Full-time,"Git, Machine Learning",2.7,2024-08-19,2024-08
+7,Python Developer,Accenture,Mumbai,On-site,Junior (1-3 yrs),Internship,"Git, NumPy, Machine Learning, Excel",4.9,2024-09-16,2024-09
