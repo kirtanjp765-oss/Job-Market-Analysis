@@ -1,18 +1,27 @@
 # Job Market Analytics Dashboard
 
-**Tools used:** Python | Pandas | Matplotlib | SQL | Excel
+**Tools:** Python | Pandas | Matplotlib | SQL | Excel
 
 ---
 
-## What this project is about
+## About this project
 
-I analysed 1000+ job postings in the data industry to find answers to questions that matter to a job seeker:
+I am a fresher learning data analytics and I built this project to practice the skills I have been learning — Python, SQL, and Excel.
+
+The idea was simple: instead of doing random practice exercises, I wanted to work on something that actually makes sense. So I decided to analyse job postings in the data field and find out what companies are looking for, which cities have more jobs, and how salary changes with experience.
+
+This helped me understand the job market while also practising data cleaning, analysis, and visualisation at the same time.
+
+---
+
+## Questions I tried to answer
 
 - Which cities have the most data jobs?
-- What skills do companies ask for the most?
+- Which companies are hiring the most?
+- What skills do most job postings ask for?
 - How much does salary change with experience?
-- Are remote jobs growing?
-- Which companies hire the most freshers?
+- How many fresher jobs are available?
+- Are remote jobs common?
 
 ---
 
@@ -21,90 +30,69 @@ I analysed 1000+ job postings in the data industry to find answers to questions 
 ```
 Job-Market-Analytics/
 │
-├── dataset/                  → Raw data (jobs_raw.csv)
-├── cleaned_data/             → Cleaned data (cleaned_jobs.csv)
+├── dataset/              → Raw data (jobs_raw.csv)
+├── cleaned_data/         → Cleaned data (cleaned_jobs.csv)
 │
 ├── python/
 │   ├── 01_generate_sample_data.py   → Creates the dataset
-│   ├── 02_data_cleaning.py          → Cleans raw data using Pandas
-│   ├── 03_eda_analysis.py           → Creates 10 charts using Matplotlib
+│   ├── 02_data_cleaning.py          → Cleans the raw data
+│   ├── 03_eda_analysis.py           → Creates charts
 │   ├── 04_business_insights.py      → Prints key findings
-│   └── 05_export_for_excel.py       → Exports data to Excel
+│   └── 05_export_for_excel.py       → Exports to Excel
 │
 ├── sql/
-│   ├── 01_create_tables.sql         → Creates the MySQL table
-│   ├── 02_analysis_queries.sql      → 15 business queries
-│   └── 03_advanced_queries.sql      → CTEs, window functions, subqueries
+│   ├── 01_create_tables.sql         → Creates MySQL table
+│   ├── 02_analysis_queries.sql      → Business queries
+│   └── 03_advanced_queries.sql      → Advanced SQL practice
 │
 ├── excel/
-│   └── job_market_dashboard.xlsx    → Dashboard with charts and KPIs
+│   └── job_market_dashboard.xlsx    → Excel dashboard
 │
-├── images/                   → All charts saved as PNG files
+├── images/               → Charts saved as images
 └── README.md
 ```
 
 ---
 
-## Steps I followed
+## What I did step by step
 
 **Step 1 — Created the dataset**
-Built a Python script that generates 1000 realistic job postings with fields like job title, company, city, skills, salary, and work mode. Added intentional dirty data (duplicates and typos) to make the cleaning step realistic.
+
+Since I am a fresher I did not have access to a paid dataset, so I created my own using Python. I wrote a script that generates 1000 job postings with fields like job title, company, city, skills, salary, and work mode. I also added some duplicate rows and lowercase city names on purpose so I had something realistic to clean.
 
 **Step 2 — Cleaned the data**
-Used Pandas to:
-- Remove 30 duplicate rows
-- Fix city name formatting (bangalore → Bangalore)
-- Fill missing salary values with the average salary of that experience group
-- Convert date strings to proper datetime format
-- Extract month from date for trend analysis
 
-**Step 3 — Exploratory Data Analysis**
-Created 10 charts using Matplotlib to answer business questions:
+This was the most important step I feel. Real data is never clean. I used Pandas to:
+- Find and remove 30 duplicate rows
+- Fix city names that were in lowercase (bangalore → Bangalore)
+- Fill in missing salary values using the average salary of that experience group
+- Convert the date column from text to proper date format
 
-| Chart | Question answered |
-|-------|-------------------|
-| Bar chart | Which companies hire the most? |
-| Bar chart | Which cities have the most postings? |
-| Bar chart | Average salary by city |
-| Horizontal bar | Top 15 most demanded skills |
-| Bar chart | Fresher vs experienced jobs |
-| Pie chart | Remote vs Hybrid vs On-site split |
-| Histogram | How are salaries distributed? |
-| Horizontal bar | Highest paying job titles |
-| Line chart | Hiring trend month by month |
-| Bar chart | Average salary by experience level |
+**Step 3 — Made charts**
 
-**Step 4 — Business Insights**
-Calculated key numbers from the data:
-- Top hiring city and company
-- Top 5 skills and their % appearance in job postings
-- Salary growth from fresher to senior level
-- Work mode percentages
-- Peak hiring month
+I used Matplotlib to create 10 charts to answer my questions visually. I made bar charts, a pie chart, a histogram, and a line chart. Each chart answers one specific question.
 
-**Step 5 — Excel Dashboard**
-Exported 11 summary sheets to Excel and built an interactive dashboard with:
-- KPI cards (Total Jobs, Average Salary, Top City, Top Skill)
-- Pivot tables
-- Charts with slicers for filtering
+**Step 4 — Found insights**
 
-**Step 6 — SQL Analysis**
-Imported the cleaned data into MySQL and wrote queries using:
-- SELECT, WHERE, GROUP BY, ORDER BY, HAVING
-- Aggregate functions (COUNT, AVG, MIN, MAX)
-- Subqueries
-- CTEs (Common Table Expressions)
-- Window functions (RANK, NTILE)
+I wrote a script that calculates and prints the key findings from the data — like which city has the most jobs, what percentage of postings are for freshers, and how salary grows with experience.
+
+**Step 5 — Excel dashboard**
+
+I exported the cleaned data and summary tables to Excel and built a simple dashboard with charts and KPIs like Total Jobs, Average Salary, and Top Skill.
+
+**Step 6 — SQL practice**
+
+I imported the data into MySQL and practised writing queries. I started with basic SELECT and GROUP BY queries and then moved on to subqueries and CTEs.
 
 ---
 
-## Key Findings
+## What I found
 
-- **SQL** and **Python** appear in the majority of data job postings
-- Freshers have real opportunities — they make up around **25% of all postings**
-- Average salary grows from **~3.7 LPA** (fresher) to **~18 LPA** (senior)
-- **Hybrid** work is the most common arrangement
-- Peak hiring happens mid-year (June–July)
+- Around **25% of job postings** are open to freshers — which is more than I expected
+- **SQL and Python** are the most asked skills in almost every posting
+- Salary grows a lot with experience — from around **3.7 LPA** for freshers to **18 LPA** for seniors
+- **Hybrid work** is the most common work mode right now
+- Most hiring happens around **June and July**
 
 ---
 
@@ -117,14 +105,12 @@ Imported the cleaned data into MySQL and wrote queries using:
 
 ---
 
-## How to run this project
+## How to run
 
-**1. Install dependencies**
 ```bash
 pip install pandas matplotlib openpyxl
 ```
 
-**2. Run the scripts in order**
 ```bash
 cd python
 py 01_generate_sample_data.py
@@ -134,21 +120,14 @@ py 04_business_insights.py
 py 05_export_for_excel.py
 ```
 
-**3. For SQL**
-- Open MySQL Workbench
-- Run `sql/01_create_tables.sql`
-- Import `cleaned_data/cleaned_jobs.csv`
-- Run `sql/02_analysis_queries.sql`
+For SQL — open MySQL Workbench, run `sql/01_create_tables.sql`, import the CSV, then run the query files.
 
 ---
 
-## Skills demonstrated
+## Skills I used
 
-- Python (data generation, cleaning, analysis, visualisation)
-- Pandas (DataFrame operations, groupby, filtering, handling missing values)
-- Matplotlib (bar, pie, line, histogram charts)
-- SQL (queries, aggregations, joins, CTEs, window functions)
-- Excel (pivot tables, charts, KPI dashboard, slicers)
-- Data cleaning best practices
-- Exploratory Data Analysis (EDA)
-- Business insight generation
+- Python — for writing all the scripts
+- Pandas — for loading, cleaning and analysing the data
+- Matplotlib — for creating charts
+- SQL — for querying the data in MySQL
+- Excel — for building the dashboard
