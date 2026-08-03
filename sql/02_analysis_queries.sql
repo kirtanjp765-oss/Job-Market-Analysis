@@ -1,7 +1,5 @@
--- ============================================================
 -- Job Market Analytics — Analysis Queries
 -- Run after importing data into the jobs table
--- ============================================================
 
 USE job_market;
 
