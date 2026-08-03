@@ -1,14 +1,11 @@
 # Step 3 - Exploratory Data Analysis (EDA)
 # We load the clean data and create charts to answer business questions
-# All charts are saved as images in the images/ folder
 
 import pandas as pd
 import matplotlib.pyplot as plt
 import os
 
-# -------------------------------------------------------
 # Load clean data
-# -------------------------------------------------------
 
 df = pd.read_csv("../cleaned_data/cleaned_jobs.csv")
 os.makedirs("../images", exist_ok=True)
@@ -16,9 +13,7 @@ os.makedirs("../images", exist_ok=True)
 print("Data loaded. Total rows:", len(df))
 print()
 
-# -------------------------------------------------------
 # Q1: Which companies are hiring the most?
-# -------------------------------------------------------
 
 company_counts = df["company"].value_counts().head(10)
 
@@ -33,9 +28,7 @@ plt.close()
 
 print("Chart saved: 01_top_companies.png")
 
-# -------------------------------------------------------
 # Q2: Which cities have the most job postings?
-# -------------------------------------------------------
 
 city_counts = df["location"].value_counts()
 
@@ -51,9 +44,7 @@ plt.close()
 
 print("Chart saved: 02_jobs_by_city.png")
 
-# -------------------------------------------------------
 # Q3: What is the average salary in each city?
-# -------------------------------------------------------
 
 avg_salary_city = df.groupby("location")["salary_lpa"].mean().round(1).sort_values(ascending=False)
 
@@ -69,9 +60,7 @@ plt.close()
 
 print("Chart saved: 03_avg_salary_city.png")
 
-# -------------------------------------------------------
 # Q4: Which are the top 20 skills in demand?
-# -------------------------------------------------------
 
 # Each row has multiple skills separated by ", "
 # We need to count how often each skill appears
@@ -109,9 +98,7 @@ plt.close()
 
 print("Chart saved: 04_top_skills.png")
 
-# -------------------------------------------------------
 # Q5: Fresher vs Experienced jobs
-# -------------------------------------------------------
 
 exp_counts = df["experience"].value_counts()
 
@@ -127,9 +114,7 @@ plt.close()
 
 print("Chart saved: 05_experience_levels.png")
 
-# -------------------------------------------------------
 # Q6: Remote vs Hybrid vs On-site
-# -------------------------------------------------------
 
 work_mode_counts = df["work_mode"].value_counts()
 
@@ -147,9 +132,7 @@ plt.close()
 
 print("Chart saved: 06_work_mode_pie.png")
 
-# -------------------------------------------------------
 # Q7: Salary distribution - how are salaries spread?
-# -------------------------------------------------------
 
 salaries = df["salary_lpa"].dropna()
 
@@ -164,9 +147,7 @@ plt.close()
 
 print("Chart saved: 07_salary_distribution.png")
 
-# -------------------------------------------------------
 # Q8: Average salary by job title
-# -------------------------------------------------------
 
 avg_salary_title = df.groupby("job_title")["salary_lpa"].mean().round(1).sort_values(ascending=False)
 
@@ -181,9 +162,7 @@ plt.close()
 
 print("Chart saved: 08_salary_by_title.png")
 
-# -------------------------------------------------------
 # Q9: Jobs posted each month (hiring trend)
-# -------------------------------------------------------
 
 monthly_counts = df["month_posted"].value_counts().sort_index()
 
@@ -199,9 +178,7 @@ plt.close()
 
 print("Chart saved: 09_monthly_trend.png")
 
-# -------------------------------------------------------
 # Q10: Average salary by experience level
-# -------------------------------------------------------
 
 # Define order so the chart shows Fresher first
 exp_order = ["Fresher (0-1 yr)", "Junior (1-3 yrs)", "Mid (3-5 yrs)", "Senior (5+ yrs)"]
