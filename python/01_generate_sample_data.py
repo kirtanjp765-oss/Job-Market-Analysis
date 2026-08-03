@@ -1,17 +1,11 @@
-# Step 1 - Create a sample dataset of job postings
-# This script creates a fake but realistic CSV file with job data
-# Run this once to get your raw data
 
 import pandas as pd
 import random
 import os
 
-# Set a seed so you get the same data every time you run
 random.seed(42)
 
-# -------------------------------------------------------
 # Reference lists - the data we will randomly pick from
-# -------------------------------------------------------
 
 job_titles = [
     "Data Analyst",
@@ -52,17 +46,12 @@ skills_pool = [
     "Pandas", "NumPy", "Statistics", "Machine Learning", "Git"
 ]
 
-# Salary range (in LPA) for each experience level
 salary_range = {
     "Fresher (0-1 yr)":  (2.5, 5.0),
     "Junior (1-3 yrs)":  (4.0, 8.0),
     "Mid (3-5 yrs)":     (7.0, 14.0),
     "Senior (5+ yrs)":   (12.0, 25.0)
 }
-
-# -------------------------------------------------------
-# Build the dataset row by row
-# -------------------------------------------------------
 
 rows = []
 
@@ -98,10 +87,6 @@ for job_id in range(1, 1001):  # 1000 job postings
         experience, emp_type, skills_str, salary, date
     ])
 
-# -------------------------------------------------------
-# Convert to DataFrame and add some dirty data on purpose
-# (so we have something to clean in the next step)
-# -------------------------------------------------------
 
 columns = [
     "job_id", "job_title", "company", "location",
@@ -119,9 +104,7 @@ df = pd.concat([df, duplicates], ignore_index=True)
 for i in range(0, 20):
     df.loc[i, "location"] = df.loc[i, "location"].lower()
 
-# -------------------------------------------------------
-# Save to CSV
-# -------------------------------------------------------
+
 
 os.makedirs("../dataset", exist_ok=True)
 df.to_csv("../dataset/jobs_raw.csv", index=False)
