@@ -1,7 +1,5 @@
--- ============================================================
 -- Job Market Analytics — Advanced SQL Practice
 -- Covers: JOINS, Subqueries, CTEs, Window Functions
--- ============================================================
 
 USE job_market;
 
