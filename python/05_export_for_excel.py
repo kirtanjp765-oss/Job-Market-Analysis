@@ -1,23 +1,18 @@
 # Step 5 - Export data to Excel
 # This creates an Excel file with multiple sheets
-# Each sheet is a summary table you can use to build charts and pivot tables
 # Output: excel/job_market_dashboard.xlsx
 
 import pandas as pd
 import os
 
-# -------------------------------------------------------
 # Load clean data
-# -------------------------------------------------------
 
 df = pd.read_csv("../cleaned_data/cleaned_jobs.csv")
 os.makedirs("../excel", exist_ok=True)
 
 output_file = "../excel/job_market_dashboard.xlsx"
 
-# -------------------------------------------------------
 # Prepare summary tables
-# -------------------------------------------------------
 
 # 1. Jobs by company
 jobs_by_company = df["company"].value_counts().reset_index()
@@ -87,9 +82,7 @@ kpi_data = {
 }
 kpis = pd.DataFrame(kpi_data)
 
-# -------------------------------------------------------
 # Write all sheets to one Excel file
-# -------------------------------------------------------
 
 with pd.ExcelWriter(output_file, engine="openpyxl") as writer:
     df.to_excel(writer,              sheet_name="All_Data",        index=False)
