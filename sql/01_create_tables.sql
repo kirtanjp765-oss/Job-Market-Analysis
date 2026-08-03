@@ -1,7 +1,4 @@
--- ============================================================
 -- Job Market Analytics — Database Setup
--- Run this file FIRST in MySQL Workbench
--- ============================================================
 
 CREATE DATABASE IF NOT EXISTS job_market;
 USE job_market;
@@ -26,15 +23,4 @@ CREATE TABLE jobs (
 
 -- After creating the table, import cleaned_data/cleaned_jobs.csv
 -- using MySQL Workbench: Table → Import Wizard → choose the CSV file
--- OR use the LOAD DATA command below (adjust path to your system):
 
-/*
-LOAD DATA INFILE 'C:/path/to/cleaned_data/cleaned_jobs.csv'
-INTO TABLE jobs
-FIELDS TERMINATED BY ','
-ENCLOSED BY '"'
-LINES TERMINATED BY '\n'
-IGNORE 1 ROWS
-(job_id, job_title, company, location, work_mode, experience,
- employment_type, skills, date_posted, month_posted, salary_lpa, exp_level_num);
-*/
